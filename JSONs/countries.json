@@ -1,0 +1,6138 @@
+[
+  {
+    "name": "Afghanistan",
+    "alpha2Code": "AF",
+    "alpha3Code": "AFG",
+    "callingCodes": ["93"],
+    "borders": ["IRN", "PAK", "TKM", "UZB", "TJK", "CHN"],
+    "timezones": ["UTC+04:30"],
+    "region": "Asia",
+    "numericCode": "004",
+    "currencies": [{ "code": "AFN", "name": "Afghan afghani", "symbol": "؋" }],
+    "languages": [
+      {
+        "iso639_1": "ps",
+        "iso639_2": "pus",
+        "name": "Pashto",
+        "nativeName": "پښتو"
+      },
+      {
+        "iso639_1": "uz",
+        "iso639_2": "uzb",
+        "name": "Uzbek",
+        "nativeName": "Oʻzbek"
+      },
+      {
+        "iso639_1": "tk",
+        "iso639_2": "tuk",
+        "name": "Turkmen",
+        "nativeName": "Türkmen"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/afg.svg"
+  },
+  {
+    "name": "Åland Islands",
+    "alpha2Code": "AX",
+    "alpha3Code": "ALA",
+    "callingCodes": ["358"],
+    "borders": [],
+    "timezones": ["UTC+02:00"],
+    "region": "Europe",
+    "numericCode": "248",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "sv",
+        "iso639_2": "swe",
+        "name": "Swedish",
+        "nativeName": "svenska"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/ala.svg"
+  },
+  {
+    "name": "Albania",
+    "alpha2Code": "AL",
+    "alpha3Code": "ALB",
+    "callingCodes": ["355"],
+    "borders": ["MNE", "GRC", "MKD", "KOS"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "008",
+    "currencies": [{ "code": "ALL", "name": "Albanian lek", "symbol": "L" }],
+    "languages": [
+      {
+        "iso639_1": "sq",
+        "iso639_2": "sqi",
+        "name": "Albanian",
+        "nativeName": "Shqip"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/alb.svg"
+  },
+  {
+    "name": "Algeria",
+    "alpha2Code": "DZ",
+    "alpha3Code": "DZA",
+    "callingCodes": ["213"],
+    "borders": ["TUN", "LBY", "NER", "ESH", "MRT", "MLI", "MAR"],
+    "timezones": ["UTC+01:00"],
+    "region": "Africa",
+    "numericCode": "012",
+    "currencies": [
+      { "code": "DZD", "name": "Algerian dinar", "symbol": "د.ج" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/dza.svg"
+  },
+  {
+    "name": "American Samoa",
+    "alpha2Code": "AS",
+    "alpha3Code": "ASM",
+    "callingCodes": ["1684"],
+    "borders": [],
+    "timezones": ["UTC-11:00"],
+    "region": "Oceania",
+    "numericCode": "016",
+    "currencies": [
+      { "code": "USD", "name": "United State Dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "sm",
+        "iso639_2": "smo",
+        "name": "Samoan",
+        "nativeName": "gagana fa'a Samoa"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/asm.svg"
+  },
+  {
+    "name": "Andorra",
+    "alpha2Code": "AD",
+    "alpha3Code": "AND",
+    "callingCodes": ["376"],
+    "borders": ["FRA", "ESP"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "020",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "ca",
+        "iso639_2": "cat",
+        "name": "Catalan",
+        "nativeName": "català"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/and.svg"
+  },
+  {
+    "name": "Angola",
+    "alpha2Code": "AO",
+    "alpha3Code": "AGO",
+    "callingCodes": ["244"],
+    "borders": ["COG", "COD", "ZMB", "NAM"],
+    "timezones": ["UTC+01:00"],
+    "region": "Africa",
+    "numericCode": "024",
+    "currencies": [{ "code": "AOA", "name": "Angolan kwanza", "symbol": "Kz" }],
+    "languages": [
+      {
+        "iso639_1": "pt",
+        "iso639_2": "por",
+        "name": "Portuguese",
+        "nativeName": "Português"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/ago.svg"
+  },
+  {
+    "name": "Anguilla",
+    "alpha2Code": "AI",
+    "alpha3Code": "AIA",
+    "callingCodes": ["1264"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "660",
+    "currencies": [
+      { "code": "XCD", "name": "East Caribbean dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/aia.svg"
+  },
+  {
+    "name": "Antarctica",
+    "alpha2Code": "AQ",
+    "alpha3Code": "ATA",
+    "callingCodes": ["672"],
+    "borders": [],
+    "timezones": [
+      "UTC-03:00",
+      "UTC+03:00",
+      "UTC+05:00",
+      "UTC+06:00",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+10:00",
+      "UTC+12:00"
+    ],
+    "region": "Polar",
+    "numericCode": "010",
+    "currencies": [
+      { "code": "AUD", "name": "Australian dollar", "symbol": "$" },
+      { "code": "GBP", "name": "British pound", "symbol": "£" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "ru",
+        "iso639_2": "rus",
+        "name": "Russian",
+        "nativeName": "Русский"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/ata.svg"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "alpha2Code": "AG",
+    "alpha3Code": "ATG",
+    "callingCodes": ["1268"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "028",
+    "currencies": [
+      { "code": "XCD", "name": "East Caribbean dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/atg.svg"
+  },
+  {
+    "name": "Argentina",
+    "alpha2Code": "AR",
+    "alpha3Code": "ARG",
+    "callingCodes": ["54"],
+    "borders": ["BOL", "BRA", "CHL", "PRY", "URY"],
+    "timezones": ["UTC-03:00"],
+    "region": "Americas",
+    "numericCode": "032",
+    "currencies": [{ "code": "ARS", "name": "Argentine peso", "symbol": "$" }],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      {
+        "iso639_1": "gn",
+        "iso639_2": "grn",
+        "name": "Guaraní",
+        "nativeName": "Avañe'ẽ"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/arg.svg"
+  },
+  {
+    "name": "Armenia",
+    "alpha2Code": "AM",
+    "alpha3Code": "ARM",
+    "callingCodes": ["374"],
+    "borders": ["AZE", "GEO", "IRN", "TUR"],
+    "timezones": ["UTC+04:00"],
+    "region": "Asia",
+    "numericCode": "051",
+    "currencies": [{ "code": "AMD", "name": "Armenian dram", "symbol": null }],
+    "languages": [
+      {
+        "iso639_1": "hy",
+        "iso639_2": "hye",
+        "name": "Armenian",
+        "nativeName": "Հայերեն"
+      },
+      {
+        "iso639_1": "ru",
+        "iso639_2": "rus",
+        "name": "Russian",
+        "nativeName": "Русский"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/arm.svg"
+  },
+  {
+    "name": "Aruba",
+    "alpha2Code": "AW",
+    "alpha3Code": "ABW",
+    "callingCodes": ["297"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "533",
+    "currencies": [{ "code": "AWG", "name": "Aruban florin", "symbol": "ƒ" }],
+    "languages": [
+      {
+        "iso639_1": "nl",
+        "iso639_2": "nld",
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+      },
+      {
+        "iso639_1": "pa",
+        "iso639_2": "pan",
+        "name": "(Eastern) Punjabi",
+        "nativeName": "ਪੰਜਾਬੀ"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/abw.svg"
+  },
+  {
+    "name": "Australia",
+    "alpha2Code": "AU",
+    "alpha3Code": "AUS",
+    "callingCodes": ["61"],
+    "borders": [],
+    "timezones": [
+      "UTC+05:00",
+      "UTC+06:30",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:30",
+      "UTC+10:00",
+      "UTC+10:30",
+      "UTC+11:30"
+    ],
+    "region": "Oceania",
+    "numericCode": "036",
+    "currencies": [
+      { "code": "AUD", "name": "Australian dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/aus.svg"
+  },
+  {
+    "name": "Austria",
+    "alpha2Code": "AT",
+    "alpha3Code": "AUT",
+    "callingCodes": ["43"],
+    "borders": ["CZE", "DEU", "HUN", "ITA", "LIE", "SVK", "SVN", "CHE"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "040",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "de",
+        "iso639_2": "deu",
+        "name": "German",
+        "nativeName": "Deutsch"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/aut.svg"
+  },
+  {
+    "name": "Azerbaijan",
+    "alpha2Code": "AZ",
+    "alpha3Code": "AZE",
+    "callingCodes": ["994"],
+    "borders": ["ARM", "GEO", "IRN", "RUS", "TUR"],
+    "timezones": ["UTC+04:00"],
+    "region": "Asia",
+    "numericCode": "031",
+    "currencies": [
+      { "code": "AZN", "name": "Azerbaijani manat", "symbol": null }
+    ],
+    "languages": [
+      {
+        "iso639_1": "az",
+        "iso639_2": "aze",
+        "name": "Azerbaijani",
+        "nativeName": "azərbaycan dili"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/aze.svg"
+  },
+  {
+    "name": "Bahamas",
+    "alpha2Code": "BS",
+    "alpha3Code": "BHS",
+    "callingCodes": ["1242"],
+    "borders": [],
+    "timezones": ["UTC-05:00"],
+    "region": "Americas",
+    "numericCode": "044",
+    "currencies": [{ "code": "BSD", "name": "Bahamian dollar", "symbol": "$" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/bhs.svg"
+  },
+  {
+    "name": "Bahrain",
+    "alpha2Code": "BH",
+    "alpha3Code": "BHR",
+    "callingCodes": ["973"],
+    "borders": [],
+    "timezones": ["UTC+03:00"],
+    "region": "Asia",
+    "numericCode": "048",
+    "currencies": [
+      { "code": "BHD", "name": "Bahraini dinar", "symbol": ".د.ب" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/bhr.svg"
+  },
+  {
+    "name": "Bangladesh",
+    "alpha2Code": "BD",
+    "alpha3Code": "BGD",
+    "callingCodes": ["880"],
+    "borders": ["MMR", "IND"],
+    "timezones": ["UTC+06:00"],
+    "region": "Asia",
+    "numericCode": "050",
+    "currencies": [
+      { "code": "BDT", "name": "Bangladeshi taka", "symbol": "৳" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "bn",
+        "iso639_2": "ben",
+        "name": "Bengali",
+        "nativeName": "বাংলা"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/bgd.svg"
+  },
+  {
+    "name": "Barbados",
+    "alpha2Code": "BB",
+    "alpha3Code": "BRB",
+    "callingCodes": ["1246"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "052",
+    "currencies": [
+      { "code": "BBD", "name": "Barbadian dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/brb.svg"
+  },
+  {
+    "name": "Belarus",
+    "alpha2Code": "BY",
+    "alpha3Code": "BLR",
+    "callingCodes": ["375"],
+    "borders": ["LVA", "LTU", "POL", "RUS", "UKR"],
+    "timezones": ["UTC+03:00"],
+    "region": "Europe",
+    "numericCode": "112",
+    "currencies": [
+      { "code": "BYN", "name": "New Belarusian ruble", "symbol": "Br" },
+      { "code": "BYR", "name": "Old Belarusian ruble", "symbol": "Br" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "be",
+        "iso639_2": "bel",
+        "name": "Belarusian",
+        "nativeName": "беларуская мова"
+      },
+      {
+        "iso639_1": "ru",
+        "iso639_2": "rus",
+        "name": "Russian",
+        "nativeName": "Русский"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/blr.svg"
+  },
+  {
+    "name": "Belgium",
+    "alpha2Code": "BE",
+    "alpha3Code": "BEL",
+    "callingCodes": ["32"],
+    "borders": ["FRA", "DEU", "LUX", "NLD"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "056",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "nl",
+        "iso639_2": "nld",
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+      },
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso639_1": "de",
+        "iso639_2": "deu",
+        "name": "German",
+        "nativeName": "Deutsch"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/bel.svg"
+  },
+  {
+    "name": "Belize",
+    "alpha2Code": "BZ",
+    "alpha3Code": "BLZ",
+    "callingCodes": ["501"],
+    "borders": ["GTM", "MEX"],
+    "timezones": ["UTC-06:00"],
+    "region": "Americas",
+    "numericCode": "084",
+    "currencies": [{ "code": "BZD", "name": "Belize dollar", "symbol": "$" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/blz.svg"
+  },
+  {
+    "name": "Benin",
+    "alpha2Code": "BJ",
+    "alpha3Code": "BEN",
+    "callingCodes": ["229"],
+    "borders": ["BFA", "NER", "NGA", "TGO"],
+    "timezones": ["UTC+01:00"],
+    "region": "Africa",
+    "numericCode": "204",
+    "currencies": [
+      { "code": "XOF", "name": "West African CFA franc", "symbol": "Fr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/ben.svg"
+  },
+  {
+    "name": "Bermuda",
+    "alpha2Code": "BM",
+    "alpha3Code": "BMU",
+    "callingCodes": ["1441"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "060",
+    "currencies": [
+      { "code": "BMD", "name": "Bermudian dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/bmu.svg"
+  },
+  {
+    "name": "Bhutan",
+    "alpha2Code": "BT",
+    "alpha3Code": "BTN",
+    "callingCodes": ["975"],
+    "borders": ["CHN", "IND"],
+    "timezones": ["UTC+06:00"],
+    "region": "Asia",
+    "numericCode": "064",
+    "currencies": [
+      { "code": "BTN", "name": "Bhutanese ngultrum", "symbol": "Nu." },
+      { "code": "INR", "name": "Indian rupee", "symbol": "₹" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "dz",
+        "iso639_2": "dzo",
+        "name": "Dzongkha",
+        "nativeName": "རྫོང་ཁ"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/btn.svg"
+  },
+  {
+    "name": "Bolivia (Plurinational State of)",
+    "alpha2Code": "BO",
+    "alpha3Code": "BOL",
+    "callingCodes": ["591"],
+    "borders": ["ARG", "BRA", "CHL", "PRY", "PER"],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "068",
+    "currencies": [
+      { "code": "BOB", "name": "Bolivian boliviano", "symbol": "Bs." }
+    ],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      {
+        "iso639_1": "ay",
+        "iso639_2": "aym",
+        "name": "Aymara",
+        "nativeName": "aymar aru"
+      },
+      {
+        "iso639_1": "qu",
+        "iso639_2": "que",
+        "name": "Quechua",
+        "nativeName": "Runa Simi"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/bol.svg"
+  },
+  {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "alpha2Code": "BQ",
+    "alpha3Code": "BES",
+    "callingCodes": ["5997"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "535",
+    "currencies": [
+      { "code": "USD", "name": "United States dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "nl",
+        "iso639_2": "nld",
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/bes.svg"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "alpha2Code": "BA",
+    "alpha3Code": "BIH",
+    "callingCodes": ["387"],
+    "borders": ["HRV", "MNE", "SRB"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "070",
+    "currencies": [
+      {
+        "code": "BAM",
+        "name": "Bosnia and Herzegovina convertible mark",
+        "symbol": null
+      }
+    ],
+    "languages": [
+      {
+        "iso639_1": "bs",
+        "iso639_2": "bos",
+        "name": "Bosnian",
+        "nativeName": "bosanski jezik"
+      },
+      {
+        "iso639_1": "hr",
+        "iso639_2": "hrv",
+        "name": "Croatian",
+        "nativeName": "hrvatski jezik"
+      },
+      {
+        "iso639_1": "sr",
+        "iso639_2": "srp",
+        "name": "Serbian",
+        "nativeName": "српски језик"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/bih.svg"
+  },
+  {
+    "name": "Botswana",
+    "alpha2Code": "BW",
+    "alpha3Code": "BWA",
+    "callingCodes": ["267"],
+    "borders": ["NAM", "ZAF", "ZMB", "ZWE"],
+    "timezones": ["UTC+02:00"],
+    "region": "Africa",
+    "numericCode": "072",
+    "currencies": [{ "code": "BWP", "name": "Botswana pula", "symbol": "P" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "tn",
+        "iso639_2": "tsn",
+        "name": "Tswana",
+        "nativeName": "Setswana"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/bwa.svg"
+  },
+  {
+    "name": "Bouvet Island",
+    "alpha2Code": "BV",
+    "alpha3Code": "BVT",
+    "callingCodes": [""],
+    "borders": [],
+    "timezones": ["UTC+01:00"],
+    "region": "",
+    "numericCode": "074",
+    "currencies": [
+      { "code": "NOK", "name": "Norwegian krone", "symbol": "kr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "no",
+        "iso639_2": "nor",
+        "name": "Norwegian",
+        "nativeName": "Norsk"
+      },
+      {
+        "iso639_1": "nb",
+        "iso639_2": "nob",
+        "name": "Norwegian Bokmål",
+        "nativeName": "Norsk bokmål"
+      },
+      {
+        "iso639_1": "nn",
+        "iso639_2": "nno",
+        "name": "Norwegian Nynorsk",
+        "nativeName": "Norsk nynorsk"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/bvt.svg"
+  },
+  {
+    "name": "Brazil",
+    "alpha2Code": "BR",
+    "alpha3Code": "BRA",
+    "callingCodes": ["55"],
+    "borders": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ],
+    "timezones": ["UTC-05:00", "UTC-04:00", "UTC-03:00", "UTC-02:00"],
+    "region": "Americas",
+    "numericCode": "076",
+    "currencies": [{ "code": "BRL", "name": "Brazilian real", "symbol": "R$" }],
+    "languages": [
+      {
+        "iso639_1": "pt",
+        "iso639_2": "por",
+        "name": "Portuguese",
+        "nativeName": "Português"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/bra.svg"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "alpha2Code": "IO",
+    "alpha3Code": "IOT",
+    "callingCodes": ["246"],
+    "borders": [],
+    "timezones": ["UTC+06:00"],
+    "region": "Africa",
+    "numericCode": "086",
+    "currencies": [
+      { "code": "USD", "name": "United States dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/iot.svg"
+  },
+  {
+    "name": "United States Minor Outlying Islands",
+    "alpha2Code": "UM",
+    "alpha3Code": "UMI",
+    "callingCodes": [""],
+    "borders": [],
+    "timezones": ["UTC-11:00", "UTC-10:00", "UTC+12:00"],
+    "region": "Americas",
+    "numericCode": "581",
+    "currencies": [
+      { "code": "USD", "name": "United States Dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/umi.svg"
+  },
+  {
+    "name": "Virgin Islands (British)",
+    "alpha2Code": "VG",
+    "alpha3Code": "VGB",
+    "callingCodes": ["1284"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "092",
+    "currencies": [
+      { "code": "USD", "name": "United States dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/vgb.svg"
+  },
+  {
+    "name": "Virgin Islands (U.S.)",
+    "alpha2Code": "VI",
+    "alpha3Code": "VIR",
+    "callingCodes": ["1 340"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "850",
+    "currencies": [
+      { "code": "USD", "name": "United States dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/vir.svg"
+  },
+  {
+    "name": "Brunei Darussalam",
+    "alpha2Code": "BN",
+    "alpha3Code": "BRN",
+    "callingCodes": ["673"],
+    "borders": ["MYS"],
+    "timezones": ["UTC+08:00"],
+    "region": "Asia",
+    "numericCode": "096",
+    "currencies": [
+      { "code": "BND", "name": "Brunei dollar", "symbol": "$" },
+      { "code": "SGD", "name": "Singapore dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "ms",
+        "iso639_2": "msa",
+        "name": "Malay",
+        "nativeName": "bahasa Melayu"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/brn.svg"
+  },
+  {
+    "name": "Bulgaria",
+    "alpha2Code": "BG",
+    "alpha3Code": "BGR",
+    "callingCodes": ["359"],
+    "borders": ["GRC", "MKD", "ROU", "SRB", "TUR"],
+    "timezones": ["UTC+02:00"],
+    "region": "Europe",
+    "numericCode": "100",
+    "currencies": [{ "code": "BGN", "name": "Bulgarian lev", "symbol": "лв" }],
+    "languages": [
+      {
+        "iso639_1": "bg",
+        "iso639_2": "bul",
+        "name": "Bulgarian",
+        "nativeName": "български език"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/bgr.svg"
+  },
+  {
+    "name": "Burkina Faso",
+    "alpha2Code": "BF",
+    "alpha3Code": "BFA",
+    "callingCodes": ["226"],
+    "borders": ["BEN", "CIV", "GHA", "MLI", "NER", "TGO"],
+    "timezones": ["UTC"],
+    "region": "Africa",
+    "numericCode": "854",
+    "currencies": [
+      { "code": "XOF", "name": "West African CFA franc", "symbol": "Fr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso639_1": "ff",
+        "iso639_2": "ful",
+        "name": "Fula",
+        "nativeName": "Fulfulde"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/bfa.svg"
+  },
+  {
+    "name": "Burundi",
+    "alpha2Code": "BI",
+    "alpha3Code": "BDI",
+    "callingCodes": ["257"],
+    "borders": ["COD", "RWA", "TZA"],
+    "timezones": ["UTC+02:00"],
+    "region": "Africa",
+    "numericCode": "108",
+    "currencies": [
+      { "code": "BIF", "name": "Burundian franc", "symbol": "Fr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso639_1": "rn",
+        "iso639_2": "run",
+        "name": "Kirundi",
+        "nativeName": "Ikirundi"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/bdi.svg"
+  },
+  {
+    "name": "Cambodia",
+    "alpha2Code": "KH",
+    "alpha3Code": "KHM",
+    "callingCodes": ["855"],
+    "borders": ["LAO", "THA", "VNM"],
+    "timezones": ["UTC+07:00"],
+    "region": "Asia",
+    "numericCode": "116",
+    "currencies": [
+      { "code": "KHR", "name": "Cambodian riel", "symbol": "៛" },
+      { "code": "USD", "name": "United States dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "km",
+        "iso639_2": "khm",
+        "name": "Khmer",
+        "nativeName": "ខ្មែរ"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/khm.svg"
+  },
+  {
+    "name": "Cameroon",
+    "alpha2Code": "CM",
+    "alpha3Code": "CMR",
+    "callingCodes": ["237"],
+    "borders": ["CAF", "TCD", "COG", "GNQ", "GAB", "NGA"],
+    "timezones": ["UTC+01:00"],
+    "region": "Africa",
+    "numericCode": "120",
+    "currencies": [
+      { "code": "XAF", "name": "Central African CFA franc", "symbol": "Fr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/cmr.svg"
+  },
+  {
+    "name": "Canada",
+    "alpha2Code": "CA",
+    "alpha3Code": "CAN",
+    "callingCodes": ["1"],
+    "borders": ["USA"],
+    "timezones": [
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:30"
+    ],
+    "region": "Americas",
+    "numericCode": "124",
+    "currencies": [{ "code": "CAD", "name": "Canadian dollar", "symbol": "$" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/can.svg"
+  },
+  {
+    "name": "Cabo Verde",
+    "alpha2Code": "CV",
+    "alpha3Code": "CPV",
+    "callingCodes": ["238"],
+    "borders": [],
+    "timezones": ["UTC-01:00"],
+    "region": "Africa",
+    "numericCode": "132",
+    "currencies": [
+      { "code": "CVE", "name": "Cape Verdean escudo", "symbol": "Esc" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "pt",
+        "iso639_2": "por",
+        "name": "Portuguese",
+        "nativeName": "Português"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/cpv.svg"
+  },
+  {
+    "name": "Cayman Islands",
+    "alpha2Code": "KY",
+    "alpha3Code": "CYM",
+    "callingCodes": ["1345"],
+    "borders": [],
+    "timezones": ["UTC-05:00"],
+    "region": "Americas",
+    "numericCode": "136",
+    "currencies": [
+      { "code": "KYD", "name": "Cayman Islands dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/cym.svg"
+  },
+  {
+    "name": "Central African Republic",
+    "alpha2Code": "CF",
+    "alpha3Code": "CAF",
+    "callingCodes": ["236"],
+    "borders": ["CMR", "TCD", "COD", "COG", "SSD", "SDN"],
+    "timezones": ["UTC+01:00"],
+    "region": "Africa",
+    "numericCode": "140",
+    "currencies": [
+      { "code": "XAF", "name": "Central African CFA franc", "symbol": "Fr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso639_1": "sg",
+        "iso639_2": "sag",
+        "name": "Sango",
+        "nativeName": "yângâ tî sängö"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/caf.svg"
+  },
+  {
+    "name": "Chad",
+    "alpha2Code": "TD",
+    "alpha3Code": "TCD",
+    "callingCodes": ["235"],
+    "borders": ["CMR", "CAF", "LBY", "NER", "NGA", "SSD"],
+    "timezones": ["UTC+01:00"],
+    "region": "Africa",
+    "numericCode": "148",
+    "currencies": [
+      { "code": "XAF", "name": "Central African CFA franc", "symbol": "Fr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/tcd.svg"
+  },
+  {
+    "name": "Chile",
+    "alpha2Code": "CL",
+    "alpha3Code": "CHL",
+    "callingCodes": ["56"],
+    "borders": ["ARG", "BOL", "PER"],
+    "timezones": ["UTC-06:00", "UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "152",
+    "currencies": [{ "code": "CLP", "name": "Chilean peso", "symbol": "$" }],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/chl.svg"
+  },
+  {
+    "name": "China",
+    "alpha2Code": "CN",
+    "alpha3Code": "CHN",
+    "callingCodes": ["86"],
+    "borders": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "timezones": ["UTC+08:00"],
+    "region": "Asia",
+    "numericCode": "156",
+    "currencies": [{ "code": "CNY", "name": "Chinese yuan", "symbol": "¥" }],
+    "languages": [
+      {
+        "iso639_1": "zh",
+        "iso639_2": "zho",
+        "name": "Chinese",
+        "nativeName": "中文 (Zhōngwén)"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/chn.svg"
+  },
+  {
+    "name": "Christmas Island",
+    "alpha2Code": "CX",
+    "alpha3Code": "CXR",
+    "callingCodes": ["61"],
+    "borders": [],
+    "timezones": ["UTC+07:00"],
+    "region": "Oceania",
+    "numericCode": "162",
+    "currencies": [
+      { "code": "AUD", "name": "Australian dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/cxr.svg"
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "alpha2Code": "CC",
+    "alpha3Code": "CCK",
+    "callingCodes": ["61"],
+    "borders": [],
+    "timezones": ["UTC+06:30"],
+    "region": "Oceania",
+    "numericCode": "166",
+    "currencies": [
+      { "code": "AUD", "name": "Australian dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/cck.svg"
+  },
+  {
+    "name": "Colombia",
+    "alpha2Code": "CO",
+    "alpha3Code": "COL",
+    "callingCodes": ["57"],
+    "borders": ["BRA", "ECU", "PAN", "PER", "VEN"],
+    "timezones": ["UTC-05:00"],
+    "region": "Americas",
+    "numericCode": "170",
+    "currencies": [{ "code": "COP", "name": "Colombian peso", "symbol": "$" }],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/col.svg"
+  },
+  {
+    "name": "Comoros",
+    "alpha2Code": "KM",
+    "alpha3Code": "COM",
+    "callingCodes": ["269"],
+    "borders": [],
+    "timezones": ["UTC+03:00"],
+    "region": "Africa",
+    "numericCode": "174",
+    "currencies": [{ "code": "KMF", "name": "Comorian franc", "symbol": "Fr" }],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/com.svg"
+  },
+  {
+    "name": "Congo",
+    "alpha2Code": "CG",
+    "alpha3Code": "COG",
+    "callingCodes": ["242"],
+    "borders": ["AGO", "CMR", "CAF", "COD", "GAB"],
+    "timezones": ["UTC+01:00"],
+    "region": "Africa",
+    "numericCode": "178",
+    "currencies": [
+      { "code": "XAF", "name": "Central African CFA franc", "symbol": "Fr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso639_1": "ln",
+        "iso639_2": "lin",
+        "name": "Lingala",
+        "nativeName": "Lingála"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/cog.svg"
+  },
+  {
+    "name": "Congo (Democratic Republic of the)",
+    "alpha2Code": "CD",
+    "alpha3Code": "COD",
+    "callingCodes": ["243"],
+    "borders": ["AGO", "BDI", "CAF", "COG", "RWA", "SSD", "TZA", "UGA", "ZMB"],
+    "timezones": ["UTC+01:00", "UTC+02:00"],
+    "region": "Africa",
+    "numericCode": "180",
+    "currencies": [
+      { "code": "CDF", "name": "Congolese franc", "symbol": "Fr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso639_1": "ln",
+        "iso639_2": "lin",
+        "name": "Lingala",
+        "nativeName": "Lingála"
+      },
+      {
+        "iso639_1": "kg",
+        "iso639_2": "kon",
+        "name": "Kongo",
+        "nativeName": "Kikongo"
+      },
+      {
+        "iso639_1": "sw",
+        "iso639_2": "swa",
+        "name": "Swahili",
+        "nativeName": "Kiswahili"
+      },
+      {
+        "iso639_1": "lu",
+        "iso639_2": "lub",
+        "name": "Luba-Katanga",
+        "nativeName": "Tshiluba"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/cod.svg"
+  },
+  {
+    "name": "Cook Islands",
+    "alpha2Code": "CK",
+    "alpha3Code": "COK",
+    "callingCodes": ["682"],
+    "borders": [],
+    "timezones": ["UTC-10:00"],
+    "region": "Oceania",
+    "numericCode": "184",
+    "currencies": [
+      { "code": "NZD", "name": "New Zealand dollar", "symbol": "$" },
+      { "code": "CKD", "name": "Cook Islands dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/cok.svg"
+  },
+  {
+    "name": "Costa Rica",
+    "alpha2Code": "CR",
+    "alpha3Code": "CRI",
+    "callingCodes": ["506"],
+    "borders": ["NIC", "PAN"],
+    "timezones": ["UTC-06:00"],
+    "region": "Americas",
+    "numericCode": "188",
+    "currencies": [
+      { "code": "CRC", "name": "Costa Rican colón", "symbol": "₡" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/cri.svg"
+  },
+  {
+    "name": "Croatia",
+    "alpha2Code": "HR",
+    "alpha3Code": "HRV",
+    "callingCodes": ["385"],
+    "borders": ["BIH", "HUN", "MNE", "SRB", "SVN"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "191",
+    "currencies": [{ "code": "HRK", "name": "Croatian kuna", "symbol": "kn" }],
+    "languages": [
+      {
+        "iso639_1": "hr",
+        "iso639_2": "hrv",
+        "name": "Croatian",
+        "nativeName": "hrvatski jezik"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/hrv.svg"
+  },
+  {
+    "name": "Cuba",
+    "alpha2Code": "CU",
+    "alpha3Code": "CUB",
+    "callingCodes": ["53"],
+    "borders": [],
+    "timezones": ["UTC-05:00"],
+    "region": "Americas",
+    "numericCode": "192",
+    "currencies": [
+      { "code": "CUC", "name": "Cuban convertible peso", "symbol": "$" },
+      { "code": "CUP", "name": "Cuban peso", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/cub.svg"
+  },
+  {
+    "name": "Curaçao",
+    "alpha2Code": "CW",
+    "alpha3Code": "CUW",
+    "callingCodes": ["599"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "531",
+    "currencies": [
+      { "code": "ANG", "name": "Netherlands Antillean guilder", "symbol": "ƒ" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "nl",
+        "iso639_2": "nld",
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+      },
+      {
+        "iso639_1": "pa",
+        "iso639_2": "pan",
+        "name": "(Eastern) Punjabi",
+        "nativeName": "ਪੰਜਾਬੀ"
+      },
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/cuw.svg"
+  },
+  {
+    "name": "Cyprus",
+    "alpha2Code": "CY",
+    "alpha3Code": "CYP",
+    "callingCodes": ["357"],
+    "borders": ["GBR"],
+    "timezones": ["UTC+02:00"],
+    "region": "Europe",
+    "numericCode": "196",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "el",
+        "iso639_2": "ell",
+        "name": "Greek (modern)",
+        "nativeName": "ελληνικά"
+      },
+      {
+        "iso639_1": "tr",
+        "iso639_2": "tur",
+        "name": "Turkish",
+        "nativeName": "Türkçe"
+      },
+      {
+        "iso639_1": "hy",
+        "iso639_2": "hye",
+        "name": "Armenian",
+        "nativeName": "Հայերեն"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/cyp.svg"
+  },
+  {
+    "name": "Czech Republic",
+    "alpha2Code": "CZ",
+    "alpha3Code": "CZE",
+    "callingCodes": ["420"],
+    "borders": ["AUT", "DEU", "POL", "SVK"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "203",
+    "currencies": [{ "code": "CZK", "name": "Czech koruna", "symbol": "Kč" }],
+    "languages": [
+      {
+        "iso639_1": "cs",
+        "iso639_2": "ces",
+        "name": "Czech",
+        "nativeName": "čeština"
+      },
+      {
+        "iso639_1": "sk",
+        "iso639_2": "slk",
+        "name": "Slovak",
+        "nativeName": "slovenčina"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/cze.svg"
+  },
+  {
+    "name": "Denmark",
+    "alpha2Code": "DK",
+    "alpha3Code": "DNK",
+    "callingCodes": ["45"],
+    "borders": ["DEU"],
+    "timezones": ["UTC-04:00", "UTC-03:00", "UTC-01:00", "UTC", "UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "208",
+    "currencies": [{ "code": "DKK", "name": "Danish krone", "symbol": "kr" }],
+    "languages": [
+      {
+        "iso639_1": "da",
+        "iso639_2": "dan",
+        "name": "Danish",
+        "nativeName": "dansk"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/dnk.svg"
+  },
+  {
+    "name": "Djibouti",
+    "alpha2Code": "DJ",
+    "alpha3Code": "DJI",
+    "callingCodes": ["253"],
+    "borders": ["ERI", "ETH", "SOM"],
+    "timezones": ["UTC+03:00"],
+    "region": "Africa",
+    "numericCode": "262",
+    "currencies": [
+      { "code": "DJF", "name": "Djiboutian franc", "symbol": "Fr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/dji.svg"
+  },
+  {
+    "name": "Dominica",
+    "alpha2Code": "DM",
+    "alpha3Code": "DMA",
+    "callingCodes": ["1767"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "212",
+    "currencies": [
+      { "code": "XCD", "name": "East Caribbean dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/dma.svg"
+  },
+  {
+    "name": "Dominican Republic",
+    "alpha2Code": "DO",
+    "alpha3Code": "DOM",
+    "callingCodes": ["1809", "1829", "1849"],
+    "borders": ["HTI"],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "214",
+    "currencies": [{ "code": "DOP", "name": "Dominican peso", "symbol": "$" }],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/dom.svg"
+  },
+  {
+    "name": "Ecuador",
+    "alpha2Code": "EC",
+    "alpha3Code": "ECU",
+    "callingCodes": ["593"],
+    "borders": ["COL", "PER"],
+    "timezones": ["UTC-06:00", "UTC-05:00"],
+    "region": "Americas",
+    "numericCode": "218",
+    "currencies": [
+      { "code": "USD", "name": "United States dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/ecu.svg"
+  },
+  {
+    "name": "Egypt",
+    "alpha2Code": "EG",
+    "alpha3Code": "EGY",
+    "callingCodes": ["20"],
+    "borders": ["ISR", "LBY", "SDN"],
+    "timezones": ["UTC+02:00"],
+    "region": "Africa",
+    "numericCode": "818",
+    "currencies": [{ "code": "EGP", "name": "Egyptian pound", "symbol": "£" }],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/egy.svg"
+  },
+  {
+    "name": "El Salvador",
+    "alpha2Code": "SV",
+    "alpha3Code": "SLV",
+    "callingCodes": ["503"],
+    "borders": ["GTM", "HND"],
+    "timezones": ["UTC-06:00"],
+    "region": "Americas",
+    "numericCode": "222",
+    "currencies": [
+      { "code": "USD", "name": "United States dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/slv.svg"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "alpha2Code": "GQ",
+    "alpha3Code": "GNQ",
+    "callingCodes": ["240"],
+    "borders": ["CMR", "GAB"],
+    "timezones": ["UTC+01:00"],
+    "region": "Africa",
+    "numericCode": "226",
+    "currencies": [
+      { "code": "XAF", "name": "Central African CFA franc", "symbol": "Fr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/gnq.svg"
+  },
+  {
+    "name": "Eritrea",
+    "alpha2Code": "ER",
+    "alpha3Code": "ERI",
+    "callingCodes": ["291"],
+    "borders": ["DJI", "ETH", "SDN"],
+    "timezones": ["UTC+03:00"],
+    "region": "Africa",
+    "numericCode": "232",
+    "currencies": [
+      { "code": "ERN", "name": "Eritrean nakfa", "symbol": "Nfk" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "ti",
+        "iso639_2": "tir",
+        "name": "Tigrinya",
+        "nativeName": "ትግርኛ"
+      },
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/eri.svg"
+  },
+  {
+    "name": "Estonia",
+    "alpha2Code": "EE",
+    "alpha3Code": "EST",
+    "callingCodes": ["372"],
+    "borders": ["LVA", "RUS"],
+    "timezones": ["UTC+02:00"],
+    "region": "Europe",
+    "numericCode": "233",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "et",
+        "iso639_2": "est",
+        "name": "Estonian",
+        "nativeName": "eesti"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/est.svg"
+  },
+  {
+    "name": "Ethiopia",
+    "alpha2Code": "ET",
+    "alpha3Code": "ETH",
+    "callingCodes": ["251"],
+    "borders": ["DJI", "ERI", "KEN", "SOM", "SSD", "SDN"],
+    "timezones": ["UTC+03:00"],
+    "region": "Africa",
+    "numericCode": "231",
+    "currencies": [{ "code": "ETB", "name": "Ethiopian birr", "symbol": "Br" }],
+    "languages": [
+      {
+        "iso639_1": "am",
+        "iso639_2": "amh",
+        "name": "Amharic",
+        "nativeName": "አማርኛ"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/eth.svg"
+  },
+  {
+    "name": "Falkland Islands (Malvinas)",
+    "alpha2Code": "FK",
+    "alpha3Code": "FLK",
+    "callingCodes": ["500"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "238",
+    "currencies": [
+      { "code": "FKP", "name": "Falkland Islands pound", "symbol": "£" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/flk.svg"
+  },
+  {
+    "name": "Faroe Islands",
+    "alpha2Code": "FO",
+    "alpha3Code": "FRO",
+    "callingCodes": ["298"],
+    "borders": [],
+    "timezones": ["UTC+00:00"],
+    "region": "Europe",
+    "numericCode": "234",
+    "currencies": [
+      { "code": "DKK", "name": "Danish krone", "symbol": "kr" },
+      { "code": "(none)", "name": "Faroese króna", "symbol": "kr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fo",
+        "iso639_2": "fao",
+        "name": "Faroese",
+        "nativeName": "føroyskt"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/fro.svg"
+  },
+  {
+    "name": "Fiji",
+    "alpha2Code": "FJ",
+    "alpha3Code": "FJI",
+    "callingCodes": ["679"],
+    "borders": [],
+    "timezones": ["UTC+12:00"],
+    "region": "Oceania",
+    "numericCode": "242",
+    "currencies": [{ "code": "FJD", "name": "Fijian dollar", "symbol": "$" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "fj",
+        "iso639_2": "fij",
+        "name": "Fijian",
+        "nativeName": "vosa Vakaviti"
+      },
+      {
+        "iso639_1": "hi",
+        "iso639_2": "hin",
+        "name": "Hindi",
+        "nativeName": "हिन्दी"
+      },
+      {
+        "iso639_1": "ur",
+        "iso639_2": "urd",
+        "name": "Urdu",
+        "nativeName": "اردو"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/fji.svg"
+  },
+  {
+    "name": "Finland",
+    "alpha2Code": "FI",
+    "alpha3Code": "FIN",
+    "callingCodes": ["358"],
+    "borders": ["NOR", "SWE", "RUS"],
+    "timezones": ["UTC+02:00"],
+    "region": "Europe",
+    "numericCode": "246",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "fi",
+        "iso639_2": "fin",
+        "name": "Finnish",
+        "nativeName": "suomi"
+      },
+      {
+        "iso639_1": "sv",
+        "iso639_2": "swe",
+        "name": "Swedish",
+        "nativeName": "svenska"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/fin.svg"
+  },
+  {
+    "name": "France",
+    "alpha2Code": "FR",
+    "alpha3Code": "FRA",
+    "callingCodes": ["33"],
+    "borders": ["AND", "BEL", "DEU", "ITA", "LUX", "MCO", "ESP", "CHE"],
+    "timezones": [
+      "UTC-10:00",
+      "UTC-09:30",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC+01:00",
+      "UTC+03:00",
+      "UTC+04:00",
+      "UTC+05:00",
+      "UTC+11:00",
+      "UTC+12:00"
+    ],
+    "region": "Europe",
+    "numericCode": "250",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/fra.svg"
+  },
+  {
+    "name": "French Guiana",
+    "alpha2Code": "GF",
+    "alpha3Code": "GUF",
+    "callingCodes": ["594"],
+    "borders": ["BRA", "SUR"],
+    "timezones": ["UTC-03:00"],
+    "region": "Americas",
+    "numericCode": "254",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/guf.svg"
+  },
+  {
+    "name": "French Polynesia",
+    "alpha2Code": "PF",
+    "alpha3Code": "PYF",
+    "callingCodes": ["689"],
+    "borders": [],
+    "timezones": ["UTC-10:00", "UTC-09:30", "UTC-09:00"],
+    "region": "Oceania",
+    "numericCode": "258",
+    "currencies": [{ "code": "XPF", "name": "CFP franc", "symbol": "Fr" }],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/pyf.svg"
+  },
+  {
+    "name": "French Southern Territories",
+    "alpha2Code": "TF",
+    "alpha3Code": "ATF",
+    "callingCodes": [""],
+    "borders": [],
+    "timezones": ["UTC+05:00"],
+    "region": "Africa",
+    "numericCode": "260",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/atf.svg"
+  },
+  {
+    "name": "Gabon",
+    "alpha2Code": "GA",
+    "alpha3Code": "GAB",
+    "callingCodes": ["241"],
+    "borders": ["CMR", "COG", "GNQ"],
+    "timezones": ["UTC+01:00"],
+    "region": "Africa",
+    "numericCode": "266",
+    "currencies": [
+      { "code": "XAF", "name": "Central African CFA franc", "symbol": "Fr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/gab.svg"
+  },
+  {
+    "name": "Gambia",
+    "alpha2Code": "GM",
+    "alpha3Code": "GMB",
+    "callingCodes": ["220"],
+    "borders": ["SEN"],
+    "timezones": ["UTC+00:00"],
+    "region": "Africa",
+    "numericCode": "270",
+    "currencies": [{ "code": "GMD", "name": "Gambian dalasi", "symbol": "D" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/gmb.svg"
+  },
+  {
+    "name": "Georgia",
+    "alpha2Code": "GE",
+    "alpha3Code": "GEO",
+    "callingCodes": ["995"],
+    "borders": ["ARM", "AZE", "RUS", "TUR"],
+    "timezones": ["UTC-05:00"],
+    "region": "Asia",
+    "numericCode": "268",
+    "currencies": [{ "code": "GEL", "name": "Georgian Lari", "symbol": "ლ" }],
+    "languages": [
+      {
+        "iso639_1": "ka",
+        "iso639_2": "kat",
+        "name": "Georgian",
+        "nativeName": "ქართული"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/geo.svg"
+  },
+  {
+    "name": "Germany",
+    "alpha2Code": "DE",
+    "alpha3Code": "DEU",
+    "callingCodes": ["49"],
+    "borders": ["AUT", "BEL", "CZE", "DNK", "FRA", "LUX", "NLD", "POL", "CHE"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "276",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "de",
+        "iso639_2": "deu",
+        "name": "German",
+        "nativeName": "Deutsch"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/deu.svg"
+  },
+  {
+    "name": "Ghana",
+    "alpha2Code": "GH",
+    "alpha3Code": "GHA",
+    "callingCodes": ["233"],
+    "borders": ["BFA", "CIV", "TGO"],
+    "timezones": ["UTC"],
+    "region": "Africa",
+    "numericCode": "288",
+    "currencies": [{ "code": "GHS", "name": "Ghanaian cedi", "symbol": "₵" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/gha.svg"
+  },
+  {
+    "name": "Gibraltar",
+    "alpha2Code": "GI",
+    "alpha3Code": "GIB",
+    "callingCodes": ["350"],
+    "borders": ["ESP"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "292",
+    "currencies": [{ "code": "GIP", "name": "Gibraltar pound", "symbol": "£" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/gib.svg"
+  },
+  {
+    "name": "Greece",
+    "alpha2Code": "GR",
+    "alpha3Code": "GRC",
+    "callingCodes": ["30"],
+    "borders": ["ALB", "BGR", "TUR", "MKD"],
+    "timezones": ["UTC+02:00"],
+    "region": "Europe",
+    "numericCode": "300",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "el",
+        "iso639_2": "ell",
+        "name": "Greek (modern)",
+        "nativeName": "ελληνικά"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/grc.svg"
+  },
+  {
+    "name": "Greenland",
+    "alpha2Code": "GL",
+    "alpha3Code": "GRL",
+    "callingCodes": ["299"],
+    "borders": [],
+    "timezones": ["UTC-04:00", "UTC-03:00", "UTC-01:00", "UTC+00:00"],
+    "region": "Americas",
+    "numericCode": "304",
+    "currencies": [{ "code": "DKK", "name": "Danish krone", "symbol": "kr" }],
+    "languages": [
+      {
+        "iso639_1": "kl",
+        "iso639_2": "kal",
+        "name": "Kalaallisut",
+        "nativeName": "kalaallisut"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/grl.svg"
+  },
+  {
+    "name": "Grenada",
+    "alpha2Code": "GD",
+    "alpha3Code": "GRD",
+    "callingCodes": ["1473"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "308",
+    "currencies": [
+      { "code": "XCD", "name": "East Caribbean dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/grd.svg"
+  },
+  {
+    "name": "Guadeloupe",
+    "alpha2Code": "GP",
+    "alpha3Code": "GLP",
+    "callingCodes": ["590"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "312",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/glp.svg"
+  },
+  {
+    "name": "Guam",
+    "alpha2Code": "GU",
+    "alpha3Code": "GUM",
+    "callingCodes": ["1671"],
+    "borders": [],
+    "timezones": ["UTC+10:00"],
+    "region": "Oceania",
+    "numericCode": "316",
+    "currencies": [
+      { "code": "USD", "name": "United States dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "ch",
+        "iso639_2": "cha",
+        "name": "Chamorro",
+        "nativeName": "Chamoru"
+      },
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/gum.svg"
+  },
+  {
+    "name": "Guatemala",
+    "alpha2Code": "GT",
+    "alpha3Code": "GTM",
+    "callingCodes": ["502"],
+    "borders": ["BLZ", "SLV", "HND", "MEX"],
+    "timezones": ["UTC-06:00"],
+    "region": "Americas",
+    "numericCode": "320",
+    "currencies": [
+      { "code": "GTQ", "name": "Guatemalan quetzal", "symbol": "Q" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/gtm.svg"
+  },
+  {
+    "name": "Guernsey",
+    "alpha2Code": "GG",
+    "alpha3Code": "GGY",
+    "callingCodes": ["44"],
+    "borders": [],
+    "timezones": ["UTC+00:00"],
+    "region": "Europe",
+    "numericCode": "831",
+    "currencies": [
+      { "code": "GBP", "name": "British pound", "symbol": "£" },
+      { "code": "(none)", "name": "Guernsey pound", "symbol": "£" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/ggy.svg"
+  },
+  {
+    "name": "Guinea",
+    "alpha2Code": "GN",
+    "alpha3Code": "GIN",
+    "callingCodes": ["224"],
+    "borders": ["CIV", "GNB", "LBR", "MLI", "SEN", "SLE"],
+    "timezones": ["UTC"],
+    "region": "Africa",
+    "numericCode": "324",
+    "currencies": [{ "code": "GNF", "name": "Guinean franc", "symbol": "Fr" }],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso639_1": "ff",
+        "iso639_2": "ful",
+        "name": "Fula",
+        "nativeName": "Fulfulde"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/gin.svg"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "alpha2Code": "GW",
+    "alpha3Code": "GNB",
+    "callingCodes": ["245"],
+    "borders": ["GIN", "SEN"],
+    "timezones": ["UTC"],
+    "region": "Africa",
+    "numericCode": "624",
+    "currencies": [
+      { "code": "XOF", "name": "West African CFA franc", "symbol": "Fr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "pt",
+        "iso639_2": "por",
+        "name": "Portuguese",
+        "nativeName": "Português"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/gnb.svg"
+  },
+  {
+    "name": "Guyana",
+    "alpha2Code": "GY",
+    "alpha3Code": "GUY",
+    "callingCodes": ["592"],
+    "borders": ["BRA", "SUR", "VEN"],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "328",
+    "currencies": [{ "code": "GYD", "name": "Guyanese dollar", "symbol": "$" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/guy.svg"
+  },
+  {
+    "name": "Haiti",
+    "alpha2Code": "HT",
+    "alpha3Code": "HTI",
+    "callingCodes": ["509"],
+    "borders": ["DOM"],
+    "timezones": ["UTC-05:00"],
+    "region": "Americas",
+    "numericCode": "332",
+    "currencies": [{ "code": "HTG", "name": "Haitian gourde", "symbol": "G" }],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso639_1": "ht",
+        "iso639_2": "hat",
+        "name": "Haitian",
+        "nativeName": "Kreyòl ayisyen"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/hti.svg"
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "alpha2Code": "HM",
+    "alpha3Code": "HMD",
+    "callingCodes": [""],
+    "borders": [],
+    "timezones": ["UTC+05:00"],
+    "region": "",
+    "numericCode": "334",
+    "currencies": [
+      { "code": "AUD", "name": "Australian dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/hmd.svg"
+  },
+  {
+    "name": "Holy See",
+    "alpha2Code": "VA",
+    "alpha3Code": "VAT",
+    "callingCodes": ["379"],
+    "borders": ["ITA"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "336",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "la",
+        "iso639_2": "lat",
+        "name": "Latin",
+        "nativeName": "latine"
+      },
+      {
+        "iso639_1": "it",
+        "iso639_2": "ita",
+        "name": "Italian",
+        "nativeName": "Italiano"
+      },
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso639_1": "de",
+        "iso639_2": "deu",
+        "name": "German",
+        "nativeName": "Deutsch"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/vat.svg"
+  },
+  {
+    "name": "Honduras",
+    "alpha2Code": "HN",
+    "alpha3Code": "HND",
+    "callingCodes": ["504"],
+    "borders": ["GTM", "SLV", "NIC"],
+    "timezones": ["UTC-06:00"],
+    "region": "Americas",
+    "numericCode": "340",
+    "currencies": [
+      { "code": "HNL", "name": "Honduran lempira", "symbol": "L" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/hnd.svg"
+  },
+  {
+    "name": "Hong Kong",
+    "alpha2Code": "HK",
+    "alpha3Code": "HKG",
+    "callingCodes": ["852"],
+    "borders": ["CHN"],
+    "timezones": ["UTC+08:00"],
+    "region": "Asia",
+    "numericCode": "344",
+    "currencies": [
+      { "code": "HKD", "name": "Hong Kong dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "zh",
+        "iso639_2": "zho",
+        "name": "Chinese",
+        "nativeName": "中文 (Zhōngwén)"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/hkg.svg"
+  },
+  {
+    "name": "Hungary",
+    "alpha2Code": "HU",
+    "alpha3Code": "HUN",
+    "callingCodes": ["36"],
+    "borders": ["AUT", "HRV", "ROU", "SRB", "SVK", "SVN", "UKR"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "348",
+    "currencies": [
+      { "code": "HUF", "name": "Hungarian forint", "symbol": "Ft" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "hu",
+        "iso639_2": "hun",
+        "name": "Hungarian",
+        "nativeName": "magyar"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/hun.svg"
+  },
+  {
+    "name": "Iceland",
+    "alpha2Code": "IS",
+    "alpha3Code": "ISL",
+    "callingCodes": ["354"],
+    "borders": [],
+    "timezones": ["UTC"],
+    "region": "Europe",
+    "numericCode": "352",
+    "currencies": [
+      { "code": "ISK", "name": "Icelandic króna", "symbol": "kr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "is",
+        "iso639_2": "isl",
+        "name": "Icelandic",
+        "nativeName": "Íslenska"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/isl.svg"
+  },
+  {
+    "name": "India",
+    "alpha2Code": "IN",
+    "alpha3Code": "IND",
+    "callingCodes": ["91"],
+    "borders": ["AFG", "BGD", "BTN", "MMR", "CHN", "NPL", "PAK", "LKA"],
+    "timezones": ["UTC+05:30"],
+    "region": "Asia",
+    "numericCode": "356",
+    "currencies": [{ "code": "INR", "name": "Indian rupee", "symbol": "₹" }],
+    "languages": [
+      {
+        "iso639_1": "hi",
+        "iso639_2": "hin",
+        "name": "Hindi",
+        "nativeName": "हिन्दी"
+      },
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/ind.svg"
+  },
+  {
+    "name": "Indonesia",
+    "alpha2Code": "ID",
+    "alpha3Code": "IDN",
+    "callingCodes": ["62"],
+    "borders": ["TLS", "MYS", "PNG"],
+    "timezones": ["UTC+07:00", "UTC+08:00", "UTC+09:00"],
+    "region": "Asia",
+    "numericCode": "360",
+    "currencies": [
+      { "code": "IDR", "name": "Indonesian rupiah", "symbol": "Rp" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "id",
+        "iso639_2": "ind",
+        "name": "Indonesian",
+        "nativeName": "Bahasa Indonesia"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/idn.svg"
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "alpha2Code": "CI",
+    "alpha3Code": "CIV",
+    "callingCodes": ["225"],
+    "borders": ["BFA", "GHA", "GIN", "LBR", "MLI"],
+    "timezones": ["UTC"],
+    "region": "Africa",
+    "numericCode": "384",
+    "currencies": [
+      { "code": "XOF", "name": "West African CFA franc", "symbol": "Fr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/civ.svg"
+  },
+  {
+    "name": "Iran (Islamic Republic of)",
+    "alpha2Code": "IR",
+    "alpha3Code": "IRN",
+    "callingCodes": ["98"],
+    "borders": ["AFG", "ARM", "AZE", "IRQ", "PAK", "TUR", "TKM"],
+    "timezones": ["UTC+03:30"],
+    "region": "Asia",
+    "numericCode": "364",
+    "currencies": [{ "code": "IRR", "name": "Iranian rial", "symbol": "﷼" }],
+    "languages": [
+      {
+        "iso639_1": "fa",
+        "iso639_2": "fas",
+        "name": "Persian (Farsi)",
+        "nativeName": "فارسی"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/irn.svg"
+  },
+  {
+    "name": "Iraq",
+    "alpha2Code": "IQ",
+    "alpha3Code": "IRQ",
+    "callingCodes": ["964"],
+    "borders": ["IRN", "JOR", "KWT", "SAU", "SYR", "TUR"],
+    "timezones": ["UTC+03:00"],
+    "region": "Asia",
+    "numericCode": "368",
+    "currencies": [{ "code": "IQD", "name": "Iraqi dinar", "symbol": "ع.د" }],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      {
+        "iso639_1": "ku",
+        "iso639_2": "kur",
+        "name": "Kurdish",
+        "nativeName": "Kurdî"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/irq.svg"
+  },
+  {
+    "name": "Ireland",
+    "alpha2Code": "IE",
+    "alpha3Code": "IRL",
+    "callingCodes": ["353"],
+    "borders": ["GBR"],
+    "timezones": ["UTC"],
+    "region": "Europe",
+    "numericCode": "372",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "ga",
+        "iso639_2": "gle",
+        "name": "Irish",
+        "nativeName": "Gaeilge"
+      },
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/irl.svg"
+  },
+  {
+    "name": "Isle of Man",
+    "alpha2Code": "IM",
+    "alpha3Code": "IMN",
+    "callingCodes": ["44"],
+    "borders": [],
+    "timezones": ["UTC+00:00"],
+    "region": "Europe",
+    "numericCode": "833",
+    "currencies": [
+      { "code": "GBP", "name": "British pound", "symbol": "£" },
+      { "code": "IMP[G]", "name": "Manx pound", "symbol": "£" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "gv",
+        "iso639_2": "glv",
+        "name": "Manx",
+        "nativeName": "Gaelg"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/imn.svg"
+  },
+  {
+    "name": "Israel",
+    "alpha2Code": "IL",
+    "alpha3Code": "ISR",
+    "callingCodes": ["972"],
+    "borders": ["EGY", "JOR", "LBN", "SYR"],
+    "timezones": ["UTC+02:00"],
+    "region": "Asia",
+    "numericCode": "376",
+    "currencies": [
+      { "code": "ILS", "name": "Israeli new shekel", "symbol": "₪" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "he",
+        "iso639_2": "heb",
+        "name": "Hebrew (modern)",
+        "nativeName": "עברית"
+      },
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/isr.svg"
+  },
+  {
+    "name": "Italy",
+    "alpha2Code": "IT",
+    "alpha3Code": "ITA",
+    "callingCodes": ["39"],
+    "borders": ["AUT", "FRA", "SMR", "SVN", "CHE", "VAT"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "380",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "it",
+        "iso639_2": "ita",
+        "name": "Italian",
+        "nativeName": "Italiano"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/ita.svg"
+  },
+  {
+    "name": "Jamaica",
+    "alpha2Code": "JM",
+    "alpha3Code": "JAM",
+    "callingCodes": ["1876"],
+    "borders": [],
+    "timezones": ["UTC-05:00"],
+    "region": "Americas",
+    "numericCode": "388",
+    "currencies": [{ "code": "JMD", "name": "Jamaican dollar", "symbol": "$" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/jam.svg"
+  },
+  {
+    "name": "Japan",
+    "alpha2Code": "JP",
+    "alpha3Code": "JPN",
+    "callingCodes": ["81"],
+    "borders": [],
+    "timezones": ["UTC+09:00"],
+    "region": "Asia",
+    "numericCode": "392",
+    "currencies": [{ "code": "JPY", "name": "Japanese yen", "symbol": "¥" }],
+    "languages": [
+      {
+        "iso639_1": "ja",
+        "iso639_2": "jpn",
+        "name": "Japanese",
+        "nativeName": "日本語 (にほんご)"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/jpn.svg"
+  },
+  {
+    "name": "Jersey",
+    "alpha2Code": "JE",
+    "alpha3Code": "JEY",
+    "callingCodes": ["44"],
+    "borders": [],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "832",
+    "currencies": [
+      { "code": "GBP", "name": "British pound", "symbol": "£" },
+      { "code": "JEP[G]", "name": "Jersey pound", "symbol": "£" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/jey.svg"
+  },
+  {
+    "name": "Jordan",
+    "alpha2Code": "JO",
+    "alpha3Code": "JOR",
+    "callingCodes": ["962"],
+    "borders": ["IRQ", "ISR", "SAU", "SYR"],
+    "timezones": ["UTC+03:00"],
+    "region": "Asia",
+    "numericCode": "400",
+    "currencies": [
+      { "code": "JOD", "name": "Jordanian dinar", "symbol": "د.ا" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/jor.svg"
+  },
+  {
+    "name": "Kazakhstan",
+    "alpha2Code": "KZ",
+    "alpha3Code": "KAZ",
+    "callingCodes": ["76", "77"],
+    "borders": ["CHN", "KGZ", "RUS", "TKM", "UZB"],
+    "timezones": ["UTC+05:00", "UTC+06:00"],
+    "region": "Asia",
+    "numericCode": "398",
+    "currencies": [
+      { "code": "KZT", "name": "Kazakhstani tenge", "symbol": null }
+    ],
+    "languages": [
+      {
+        "iso639_1": "kk",
+        "iso639_2": "kaz",
+        "name": "Kazakh",
+        "nativeName": "қазақ тілі"
+      },
+      {
+        "iso639_1": "ru",
+        "iso639_2": "rus",
+        "name": "Russian",
+        "nativeName": "Русский"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/kaz.svg"
+  },
+  {
+    "name": "Kenya",
+    "alpha2Code": "KE",
+    "alpha3Code": "KEN",
+    "callingCodes": ["254"],
+    "borders": ["ETH", "SOM", "SSD", "TZA", "UGA"],
+    "timezones": ["UTC+03:00"],
+    "region": "Africa",
+    "numericCode": "404",
+    "currencies": [
+      { "code": "KES", "name": "Kenyan shilling", "symbol": "Sh" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "sw",
+        "iso639_2": "swa",
+        "name": "Swahili",
+        "nativeName": "Kiswahili"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/ken.svg"
+  },
+  {
+    "name": "Kiribati",
+    "alpha2Code": "KI",
+    "alpha3Code": "KIR",
+    "callingCodes": ["686"],
+    "borders": [],
+    "timezones": ["UTC+12:00", "UTC+13:00", "UTC+14:00"],
+    "region": "Oceania",
+    "numericCode": "296",
+    "currencies": [
+      { "code": "AUD", "name": "Australian dollar", "symbol": "$" },
+      { "code": "(none)", "name": "Kiribati dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/kir.svg"
+  },
+  {
+    "name": "Kuwait",
+    "alpha2Code": "KW",
+    "alpha3Code": "KWT",
+    "callingCodes": ["965"],
+    "borders": ["IRN", "SAU"],
+    "timezones": ["UTC+03:00"],
+    "region": "Asia",
+    "numericCode": "414",
+    "currencies": [{ "code": "KWD", "name": "Kuwaiti dinar", "symbol": "د.ك" }],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/kwt.svg"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "alpha2Code": "KG",
+    "alpha3Code": "KGZ",
+    "callingCodes": ["996"],
+    "borders": ["CHN", "KAZ", "TJK", "UZB"],
+    "timezones": ["UTC+06:00"],
+    "region": "Asia",
+    "numericCode": "417",
+    "currencies": [{ "code": "KGS", "name": "Kyrgyzstani som", "symbol": "с" }],
+    "languages": [
+      {
+        "iso639_1": "ky",
+        "iso639_2": "kir",
+        "name": "Kyrgyz",
+        "nativeName": "Кыргызча"
+      },
+      {
+        "iso639_1": "ru",
+        "iso639_2": "rus",
+        "name": "Russian",
+        "nativeName": "Русский"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/kgz.svg"
+  },
+  {
+    "name": "Lao People's Democratic Republic",
+    "alpha2Code": "LA",
+    "alpha3Code": "LAO",
+    "callingCodes": ["856"],
+    "borders": ["MMR", "KHM", "CHN", "THA", "VNM"],
+    "timezones": ["UTC+07:00"],
+    "region": "Asia",
+    "numericCode": "418",
+    "currencies": [{ "code": "LAK", "name": "Lao kip", "symbol": "₭" }],
+    "languages": [
+      {
+        "iso639_1": "lo",
+        "iso639_2": "lao",
+        "name": "Lao",
+        "nativeName": "ພາສາລາວ"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/lao.svg"
+  },
+  {
+    "name": "Latvia",
+    "alpha2Code": "LV",
+    "alpha3Code": "LVA",
+    "callingCodes": ["371"],
+    "borders": ["BLR", "EST", "LTU", "RUS"],
+    "timezones": ["UTC+02:00"],
+    "region": "Europe",
+    "numericCode": "428",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "lv",
+        "iso639_2": "lav",
+        "name": "Latvian",
+        "nativeName": "latviešu valoda"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/lva.svg"
+  },
+  {
+    "name": "Lebanon",
+    "alpha2Code": "LB",
+    "alpha3Code": "LBN",
+    "callingCodes": ["961"],
+    "borders": ["ISR", "SYR"],
+    "timezones": ["UTC+02:00"],
+    "region": "Asia",
+    "numericCode": "422",
+    "currencies": [
+      { "code": "LBP", "name": "Lebanese pound", "symbol": "ل.ل" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/lbn.svg"
+  },
+  {
+    "name": "Lesotho",
+    "alpha2Code": "LS",
+    "alpha3Code": "LSO",
+    "callingCodes": ["266"],
+    "borders": ["ZAF"],
+    "timezones": ["UTC+02:00"],
+    "region": "Africa",
+    "numericCode": "426",
+    "currencies": [
+      { "code": "LSL", "name": "Lesotho loti", "symbol": "L" },
+      { "code": "ZAR", "name": "South African rand", "symbol": "R" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "st",
+        "iso639_2": "sot",
+        "name": "Southern Sotho",
+        "nativeName": "Sesotho"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/lso.svg"
+  },
+  {
+    "name": "Liberia",
+    "alpha2Code": "LR",
+    "alpha3Code": "LBR",
+    "callingCodes": ["231"],
+    "borders": ["GIN", "CIV", "SLE"],
+    "timezones": ["UTC"],
+    "region": "Africa",
+    "numericCode": "430",
+    "currencies": [{ "code": "LRD", "name": "Liberian dollar", "symbol": "$" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/lbr.svg"
+  },
+  {
+    "name": "Libya",
+    "alpha2Code": "LY",
+    "alpha3Code": "LBY",
+    "callingCodes": ["218"],
+    "borders": ["DZA", "TCD", "EGY", "NER", "SDN", "TUN"],
+    "timezones": ["UTC+01:00"],
+    "region": "Africa",
+    "numericCode": "434",
+    "currencies": [{ "code": "LYD", "name": "Libyan dinar", "symbol": "ل.د" }],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/lby.svg"
+  },
+  {
+    "name": "Liechtenstein",
+    "alpha2Code": "LI",
+    "alpha3Code": "LIE",
+    "callingCodes": ["423"],
+    "borders": ["AUT", "CHE"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "438",
+    "currencies": [{ "code": "CHF", "name": "Swiss franc", "symbol": "Fr" }],
+    "languages": [
+      {
+        "iso639_1": "de",
+        "iso639_2": "deu",
+        "name": "German",
+        "nativeName": "Deutsch"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/lie.svg"
+  },
+  {
+    "name": "Lithuania",
+    "alpha2Code": "LT",
+    "alpha3Code": "LTU",
+    "callingCodes": ["370"],
+    "borders": ["BLR", "LVA", "POL", "RUS"],
+    "timezones": ["UTC+02:00"],
+    "region": "Europe",
+    "numericCode": "440",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "lt",
+        "iso639_2": "lit",
+        "name": "Lithuanian",
+        "nativeName": "lietuvių kalba"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/ltu.svg"
+  },
+  {
+    "name": "Luxembourg",
+    "alpha2Code": "LU",
+    "alpha3Code": "LUX",
+    "callingCodes": ["352"],
+    "borders": ["BEL", "FRA", "DEU"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "442",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso639_1": "de",
+        "iso639_2": "deu",
+        "name": "German",
+        "nativeName": "Deutsch"
+      },
+      {
+        "iso639_1": "lb",
+        "iso639_2": "ltz",
+        "name": "Luxembourgish",
+        "nativeName": "Lëtzebuergesch"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/lux.svg"
+  },
+  {
+    "name": "Macao",
+    "alpha2Code": "MO",
+    "alpha3Code": "MAC",
+    "callingCodes": ["853"],
+    "borders": ["CHN"],
+    "timezones": ["UTC+08:00"],
+    "region": "Asia",
+    "numericCode": "446",
+    "currencies": [{ "code": "MOP", "name": "Macanese pataca", "symbol": "P" }],
+    "languages": [
+      {
+        "iso639_1": "zh",
+        "iso639_2": "zho",
+        "name": "Chinese",
+        "nativeName": "中文 (Zhōngwén)"
+      },
+      {
+        "iso639_1": "pt",
+        "iso639_2": "por",
+        "name": "Portuguese",
+        "nativeName": "Português"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/mac.svg"
+  },
+  {
+    "name": "Macedonia (the former Yugoslav Republic of)",
+    "alpha2Code": "MK",
+    "alpha3Code": "MKD",
+    "callingCodes": ["389"],
+    "borders": ["ALB", "BGR", "GRC", "KOS", "SRB"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "807",
+    "currencies": [
+      { "code": "MKD", "name": "Macedonian denar", "symbol": "ден" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "mk",
+        "iso639_2": "mkd",
+        "name": "Macedonian",
+        "nativeName": "македонски јазик"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/mkd.svg"
+  },
+  {
+    "name": "Madagascar",
+    "alpha2Code": "MG",
+    "alpha3Code": "MDG",
+    "callingCodes": ["261"],
+    "borders": [],
+    "timezones": ["UTC+03:00"],
+    "region": "Africa",
+    "numericCode": "450",
+    "currencies": [
+      { "code": "MGA", "name": "Malagasy ariary", "symbol": "Ar" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso639_1": "mg",
+        "iso639_2": "mlg",
+        "name": "Malagasy",
+        "nativeName": "fiteny malagasy"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/mdg.svg"
+  },
+  {
+    "name": "Malawi",
+    "alpha2Code": "MW",
+    "alpha3Code": "MWI",
+    "callingCodes": ["265"],
+    "borders": ["MOZ", "TZA", "ZMB"],
+    "timezones": ["UTC+02:00"],
+    "region": "Africa",
+    "numericCode": "454",
+    "currencies": [
+      { "code": "MWK", "name": "Malawian kwacha", "symbol": "MK" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "ny",
+        "iso639_2": "nya",
+        "name": "Chichewa",
+        "nativeName": "chiCheŵa"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/mwi.svg"
+  },
+  {
+    "name": "Malaysia",
+    "alpha2Code": "MY",
+    "alpha3Code": "MYS",
+    "callingCodes": ["60"],
+    "borders": ["BRN", "IDN", "THA"],
+    "timezones": ["UTC+08:00"],
+    "region": "Asia",
+    "numericCode": "458",
+    "currencies": [
+      { "code": "MYR", "name": "Malaysian ringgit", "symbol": "RM" }
+    ],
+    "languages": [
+      {
+        "iso639_1": null,
+        "iso639_2": "zsm",
+        "name": "Malaysian",
+        "nativeName": "بهاس مليسيا"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/mys.svg"
+  },
+  {
+    "name": "Maldives",
+    "alpha2Code": "MV",
+    "alpha3Code": "MDV",
+    "callingCodes": ["960"],
+    "borders": [],
+    "timezones": ["UTC+05:00"],
+    "region": "Asia",
+    "numericCode": "462",
+    "currencies": [
+      { "code": "MVR", "name": "Maldivian rufiyaa", "symbol": ".ރ" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "dv",
+        "iso639_2": "div",
+        "name": "Divehi",
+        "nativeName": "ދިވެހި"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/mdv.svg"
+  },
+  {
+    "name": "Mali",
+    "alpha2Code": "ML",
+    "alpha3Code": "MLI",
+    "callingCodes": ["223"],
+    "borders": ["DZA", "BFA", "GIN", "CIV", "MRT", "NER", "SEN"],
+    "timezones": ["UTC"],
+    "region": "Africa",
+    "numericCode": "466",
+    "currencies": [
+      { "code": "XOF", "name": "West African CFA franc", "symbol": "Fr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/mli.svg"
+  },
+  {
+    "name": "Malta",
+    "alpha2Code": "MT",
+    "alpha3Code": "MLT",
+    "callingCodes": ["356"],
+    "borders": [],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "470",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "mt",
+        "iso639_2": "mlt",
+        "name": "Maltese",
+        "nativeName": "Malti"
+      },
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/mlt.svg"
+  },
+  {
+    "name": "Marshall Islands",
+    "alpha2Code": "MH",
+    "alpha3Code": "MHL",
+    "callingCodes": ["692"],
+    "borders": [],
+    "timezones": ["UTC+12:00"],
+    "region": "Oceania",
+    "numericCode": "584",
+    "currencies": [
+      { "code": "USD", "name": "United States dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "mh",
+        "iso639_2": "mah",
+        "name": "Marshallese",
+        "nativeName": "Kajin M̧ajeļ"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/mhl.svg"
+  },
+  {
+    "name": "Martinique",
+    "alpha2Code": "MQ",
+    "alpha3Code": "MTQ",
+    "callingCodes": ["596"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "474",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/mtq.svg"
+  },
+  {
+    "name": "Mauritania",
+    "alpha2Code": "MR",
+    "alpha3Code": "MRT",
+    "callingCodes": ["222"],
+    "borders": ["DZA", "MLI", "SEN", "ESH"],
+    "timezones": ["UTC"],
+    "region": "Africa",
+    "numericCode": "478",
+    "currencies": [
+      { "code": "MRO", "name": "Mauritanian ouguiya", "symbol": "UM" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/mrt.svg"
+  },
+  {
+    "name": "Mauritius",
+    "alpha2Code": "MU",
+    "alpha3Code": "MUS",
+    "callingCodes": ["230"],
+    "borders": [],
+    "timezones": ["UTC+04:00"],
+    "region": "Africa",
+    "numericCode": "480",
+    "currencies": [{ "code": "MUR", "name": "Mauritian rupee", "symbol": "₨" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/mus.svg"
+  },
+  {
+    "name": "Mayotte",
+    "alpha2Code": "YT",
+    "alpha3Code": "MYT",
+    "callingCodes": ["262"],
+    "borders": [],
+    "timezones": ["UTC+03:00"],
+    "region": "Africa",
+    "numericCode": "175",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/myt.svg"
+  },
+  {
+    "name": "Mexico",
+    "alpha2Code": "MX",
+    "alpha3Code": "MEX",
+    "callingCodes": ["52"],
+    "borders": ["BLZ", "GTM", "USA"],
+    "timezones": ["UTC-08:00", "UTC-07:00", "UTC-06:00"],
+    "region": "Americas",
+    "numericCode": "484",
+    "currencies": [{ "code": "MXN", "name": "Mexican peso", "symbol": "$" }],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/mex.svg"
+  },
+  {
+    "name": "Micronesia (Federated States of)",
+    "alpha2Code": "FM",
+    "alpha3Code": "FSM",
+    "callingCodes": ["691"],
+    "borders": [],
+    "timezones": ["UTC+10:00", "UTC+11"],
+    "region": "Oceania",
+    "numericCode": "583",
+    "currencies": [
+      { "code": "USD", "name": "United States dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/fsm.svg"
+  },
+  {
+    "name": "Moldova (Republic of)",
+    "alpha2Code": "MD",
+    "alpha3Code": "MDA",
+    "callingCodes": ["373"],
+    "borders": ["ROU", "UKR"],
+    "timezones": ["UTC+02:00"],
+    "region": "Europe",
+    "numericCode": "498",
+    "currencies": [{ "code": "MDL", "name": "Moldovan leu", "symbol": "L" }],
+    "languages": [
+      {
+        "iso639_1": "ro",
+        "iso639_2": "ron",
+        "name": "Romanian",
+        "nativeName": "Română"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/mda.svg"
+  },
+  {
+    "name": "Monaco",
+    "alpha2Code": "MC",
+    "alpha3Code": "MCO",
+    "callingCodes": ["377"],
+    "borders": ["FRA"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "492",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/mco.svg"
+  },
+  {
+    "name": "Mongolia",
+    "alpha2Code": "MN",
+    "alpha3Code": "MNG",
+    "callingCodes": ["976"],
+    "borders": ["CHN", "RUS"],
+    "timezones": ["UTC+07:00", "UTC+08:00"],
+    "region": "Asia",
+    "numericCode": "496",
+    "currencies": [
+      { "code": "MNT", "name": "Mongolian tögrög", "symbol": "₮" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "mn",
+        "iso639_2": "mon",
+        "name": "Mongolian",
+        "nativeName": "Монгол хэл"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/mng.svg"
+  },
+  {
+    "name": "Montenegro",
+    "alpha2Code": "ME",
+    "alpha3Code": "MNE",
+    "callingCodes": ["382"],
+    "borders": ["ALB", "BIH", "HRV", "KOS", "SRB"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "499",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "sr",
+        "iso639_2": "srp",
+        "name": "Serbian",
+        "nativeName": "српски језик"
+      },
+      {
+        "iso639_1": "bs",
+        "iso639_2": "bos",
+        "name": "Bosnian",
+        "nativeName": "bosanski jezik"
+      },
+      {
+        "iso639_1": "sq",
+        "iso639_2": "sqi",
+        "name": "Albanian",
+        "nativeName": "Shqip"
+      },
+      {
+        "iso639_1": "hr",
+        "iso639_2": "hrv",
+        "name": "Croatian",
+        "nativeName": "hrvatski jezik"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/mne.svg"
+  },
+  {
+    "name": "Montserrat",
+    "alpha2Code": "MS",
+    "alpha3Code": "MSR",
+    "callingCodes": ["1664"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "500",
+    "currencies": [
+      { "code": "XCD", "name": "East Caribbean dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/msr.svg"
+  },
+  {
+    "name": "Morocco",
+    "alpha2Code": "MA",
+    "alpha3Code": "MAR",
+    "callingCodes": ["212"],
+    "borders": ["DZA", "ESH", "ESP"],
+    "timezones": ["UTC"],
+    "region": "Africa",
+    "numericCode": "504",
+    "currencies": [
+      { "code": "MAD", "name": "Moroccan dirham", "symbol": "د.م." }
+    ],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/mar.svg"
+  },
+  {
+    "name": "Mozambique",
+    "alpha2Code": "MZ",
+    "alpha3Code": "MOZ",
+    "callingCodes": ["258"],
+    "borders": ["MWI", "ZAF", "SWZ", "TZA", "ZMB", "ZWE"],
+    "timezones": ["UTC+02:00"],
+    "region": "Africa",
+    "numericCode": "508",
+    "currencies": [
+      { "code": "MZN", "name": "Mozambican metical", "symbol": "MT" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "pt",
+        "iso639_2": "por",
+        "name": "Portuguese",
+        "nativeName": "Português"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/moz.svg"
+  },
+  {
+    "name": "Myanmar",
+    "alpha2Code": "MM",
+    "alpha3Code": "MMR",
+    "callingCodes": ["95"],
+    "borders": ["BGD", "CHN", "IND", "LAO", "THA"],
+    "timezones": ["UTC+06:30"],
+    "region": "Asia",
+    "numericCode": "104",
+    "currencies": [{ "code": "MMK", "name": "Burmese kyat", "symbol": "Ks" }],
+    "languages": [
+      {
+        "iso639_1": "my",
+        "iso639_2": "mya",
+        "name": "Burmese",
+        "nativeName": "ဗမာစာ"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/mmr.svg"
+  },
+  {
+    "name": "Namibia",
+    "alpha2Code": "NA",
+    "alpha3Code": "NAM",
+    "callingCodes": ["264"],
+    "borders": ["AGO", "BWA", "ZAF", "ZMB"],
+    "timezones": ["UTC+01:00"],
+    "region": "Africa",
+    "numericCode": "516",
+    "currencies": [
+      { "code": "NAD", "name": "Namibian dollar", "symbol": "$" },
+      { "code": "ZAR", "name": "South African rand", "symbol": "R" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "af",
+        "iso639_2": "afr",
+        "name": "Afrikaans",
+        "nativeName": "Afrikaans"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/nam.svg"
+  },
+  {
+    "name": "Nauru",
+    "alpha2Code": "NR",
+    "alpha3Code": "NRU",
+    "callingCodes": ["674"],
+    "borders": [],
+    "timezones": ["UTC+12:00"],
+    "region": "Oceania",
+    "numericCode": "520",
+    "currencies": [
+      { "code": "AUD", "name": "Australian dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "na",
+        "iso639_2": "nau",
+        "name": "Nauruan",
+        "nativeName": "Dorerin Naoero"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/nru.svg"
+  },
+  {
+    "name": "Nepal",
+    "alpha2Code": "NP",
+    "alpha3Code": "NPL",
+    "callingCodes": ["977"],
+    "borders": ["CHN", "IND"],
+    "timezones": ["UTC+05:45"],
+    "region": "Asia",
+    "numericCode": "524",
+    "currencies": [{ "code": "NPR", "name": "Nepalese rupee", "symbol": "₨" }],
+    "languages": [
+      {
+        "iso639_1": "ne",
+        "iso639_2": "nep",
+        "name": "Nepali",
+        "nativeName": "नेपाली"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/npl.svg"
+  },
+  {
+    "name": "Netherlands",
+    "alpha2Code": "NL",
+    "alpha3Code": "NLD",
+    "callingCodes": ["31"],
+    "borders": ["BEL", "DEU"],
+    "timezones": ["UTC-04:00", "UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "528",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "nl",
+        "iso639_2": "nld",
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/nld.svg"
+  },
+  {
+    "name": "New Caledonia",
+    "alpha2Code": "NC",
+    "alpha3Code": "NCL",
+    "callingCodes": ["687"],
+    "borders": [],
+    "timezones": ["UTC+11:00"],
+    "region": "Oceania",
+    "numericCode": "540",
+    "currencies": [{ "code": "XPF", "name": "CFP franc", "symbol": "Fr" }],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/ncl.svg"
+  },
+  {
+    "name": "New Zealand",
+    "alpha2Code": "NZ",
+    "alpha3Code": "NZL",
+    "callingCodes": ["64"],
+    "borders": [],
+    "timezones": [
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC+12:00",
+      "UTC+12:45",
+      "UTC+13:00"
+    ],
+    "region": "Oceania",
+    "numericCode": "554",
+    "currencies": [
+      { "code": "NZD", "name": "New Zealand dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "mi",
+        "iso639_2": "mri",
+        "name": "Māori",
+        "nativeName": "te reo Māori"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/nzl.svg"
+  },
+  {
+    "name": "Nicaragua",
+    "alpha2Code": "NI",
+    "alpha3Code": "NIC",
+    "callingCodes": ["505"],
+    "borders": ["CRI", "HND"],
+    "timezones": ["UTC-06:00"],
+    "region": "Americas",
+    "numericCode": "558",
+    "currencies": [
+      { "code": "NIO", "name": "Nicaraguan córdoba", "symbol": "C$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/nic.svg"
+  },
+  {
+    "name": "Niger",
+    "alpha2Code": "NE",
+    "alpha3Code": "NER",
+    "callingCodes": ["227"],
+    "borders": ["DZA", "BEN", "BFA", "TCD", "LBY", "MLI", "NGA"],
+    "timezones": ["UTC+01:00"],
+    "region": "Africa",
+    "numericCode": "562",
+    "currencies": [
+      { "code": "XOF", "name": "West African CFA franc", "symbol": "Fr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/ner.svg"
+  },
+  {
+    "name": "Nigeria",
+    "alpha2Code": "NG",
+    "alpha3Code": "NGA",
+    "callingCodes": ["234"],
+    "borders": ["BEN", "CMR", "TCD", "NER"],
+    "timezones": ["UTC+01:00"],
+    "region": "Africa",
+    "numericCode": "566",
+    "currencies": [{ "code": "NGN", "name": "Nigerian naira", "symbol": "₦" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/nga.svg"
+  },
+  {
+    "name": "Niue",
+    "alpha2Code": "NU",
+    "alpha3Code": "NIU",
+    "callingCodes": ["683"],
+    "borders": [],
+    "timezones": ["UTC-11:00"],
+    "region": "Oceania",
+    "numericCode": "570",
+    "currencies": [
+      { "code": "NZD", "name": "New Zealand dollar", "symbol": "$" },
+      { "code": "(none)", "name": "Niue dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/niu.svg"
+  },
+  {
+    "name": "Norfolk Island",
+    "alpha2Code": "NF",
+    "alpha3Code": "NFK",
+    "callingCodes": ["672"],
+    "borders": [],
+    "timezones": ["UTC+11:30"],
+    "region": "Oceania",
+    "numericCode": "574",
+    "currencies": [
+      { "code": "AUD", "name": "Australian dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/nfk.svg"
+  },
+  {
+    "name": "Korea (Democratic People's Republic of)",
+    "alpha2Code": "KP",
+    "alpha3Code": "PRK",
+    "callingCodes": ["850"],
+    "borders": ["CHN", "KOR", "RUS"],
+    "timezones": ["UTC+09:00"],
+    "region": "Asia",
+    "numericCode": "408",
+    "currencies": [
+      { "code": "KPW", "name": "North Korean won", "symbol": "₩" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "ko",
+        "iso639_2": "kor",
+        "name": "Korean",
+        "nativeName": "한국어"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/prk.svg"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "alpha2Code": "MP",
+    "alpha3Code": "MNP",
+    "callingCodes": ["1670"],
+    "borders": [],
+    "timezones": ["UTC+10:00"],
+    "region": "Oceania",
+    "numericCode": "580",
+    "currencies": [
+      { "code": "USD", "name": "United States dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "ch",
+        "iso639_2": "cha",
+        "name": "Chamorro",
+        "nativeName": "Chamoru"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/mnp.svg"
+  },
+  {
+    "name": "Norway",
+    "alpha2Code": "NO",
+    "alpha3Code": "NOR",
+    "callingCodes": ["47"],
+    "borders": ["FIN", "SWE", "RUS"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "578",
+    "currencies": [
+      { "code": "NOK", "name": "Norwegian krone", "symbol": "kr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "no",
+        "iso639_2": "nor",
+        "name": "Norwegian",
+        "nativeName": "Norsk"
+      },
+      {
+        "iso639_1": "nb",
+        "iso639_2": "nob",
+        "name": "Norwegian Bokmål",
+        "nativeName": "Norsk bokmål"
+      },
+      {
+        "iso639_1": "nn",
+        "iso639_2": "nno",
+        "name": "Norwegian Nynorsk",
+        "nativeName": "Norsk nynorsk"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/nor.svg"
+  },
+  {
+    "name": "Oman",
+    "alpha2Code": "OM",
+    "alpha3Code": "OMN",
+    "callingCodes": ["968"],
+    "borders": ["SAU", "ARE", "YEM"],
+    "timezones": ["UTC+04:00"],
+    "region": "Asia",
+    "numericCode": "512",
+    "currencies": [{ "code": "OMR", "name": "Omani rial", "symbol": "ر.ع." }],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/omn.svg"
+  },
+  {
+    "name": "Pakistan",
+    "alpha2Code": "PK",
+    "alpha3Code": "PAK",
+    "callingCodes": ["92"],
+    "borders": ["AFG", "CHN", "IND", "IRN"],
+    "timezones": ["UTC+05:00"],
+    "region": "Asia",
+    "numericCode": "586",
+    "currencies": [{ "code": "PKR", "name": "Pakistani rupee", "symbol": "₨" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "ur",
+        "iso639_2": "urd",
+        "name": "Urdu",
+        "nativeName": "اردو"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/pak.svg"
+  },
+  {
+    "name": "Palau",
+    "alpha2Code": "PW",
+    "alpha3Code": "PLW",
+    "callingCodes": ["680"],
+    "borders": [],
+    "timezones": ["UTC+09:00"],
+    "region": "Oceania",
+    "numericCode": "585",
+    "currencies": [
+      { "code": "(none)", "name": "[E]", "symbol": "$" },
+      { "code": "USD", "name": "United States dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/plw.svg"
+  },
+  {
+    "name": "Palestine, State of",
+    "alpha2Code": "PS",
+    "alpha3Code": "PSE",
+    "callingCodes": ["970"],
+    "borders": ["ISR", "EGY", "JOR"],
+    "timezones": ["UTC+02:00"],
+    "region": "Asia",
+    "numericCode": "275",
+    "currencies": [
+      { "code": "ILS", "name": "Israeli new sheqel", "symbol": "₪" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/pse.svg"
+  },
+  {
+    "name": "Panama",
+    "alpha2Code": "PA",
+    "alpha3Code": "PAN",
+    "callingCodes": ["507"],
+    "borders": ["COL", "CRI"],
+    "timezones": ["UTC-05:00"],
+    "region": "Americas",
+    "numericCode": "591",
+    "currencies": [
+      { "code": "PAB", "name": "Panamanian balboa", "symbol": "B/." },
+      { "code": "USD", "name": "United States dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/pan.svg"
+  },
+  {
+    "name": "Papua New Guinea",
+    "alpha2Code": "PG",
+    "alpha3Code": "PNG",
+    "callingCodes": ["675"],
+    "borders": ["IDN"],
+    "timezones": ["UTC+10:00"],
+    "region": "Oceania",
+    "numericCode": "598",
+    "currencies": [
+      { "code": "PGK", "name": "Papua New Guinean kina", "symbol": "K" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/png.svg"
+  },
+  {
+    "name": "Paraguay",
+    "alpha2Code": "PY",
+    "alpha3Code": "PRY",
+    "callingCodes": ["595"],
+    "borders": ["ARG", "BOL", "BRA"],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "600",
+    "currencies": [
+      { "code": "PYG", "name": "Paraguayan guaraní", "symbol": "₲" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      {
+        "iso639_1": "gn",
+        "iso639_2": "grn",
+        "name": "Guaraní",
+        "nativeName": "Avañe'ẽ"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/pry.svg"
+  },
+  {
+    "name": "Peru",
+    "alpha2Code": "PE",
+    "alpha3Code": "PER",
+    "callingCodes": ["51"],
+    "borders": ["BOL", "BRA", "CHL", "COL", "ECU"],
+    "timezones": ["UTC-05:00"],
+    "region": "Americas",
+    "numericCode": "604",
+    "currencies": [{ "code": "PEN", "name": "Peruvian sol", "symbol": "S/." }],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/per.svg"
+  },
+  {
+    "name": "Philippines",
+    "alpha2Code": "PH",
+    "alpha3Code": "PHL",
+    "callingCodes": ["63"],
+    "borders": [],
+    "timezones": ["UTC+08:00"],
+    "region": "Asia",
+    "numericCode": "608",
+    "currencies": [{ "code": "PHP", "name": "Philippine peso", "symbol": "₱" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/phl.svg"
+  },
+  {
+    "name": "Pitcairn",
+    "alpha2Code": "PN",
+    "alpha3Code": "PCN",
+    "callingCodes": ["64"],
+    "borders": [],
+    "timezones": ["UTC-08:00"],
+    "region": "Oceania",
+    "numericCode": "612",
+    "currencies": [
+      { "code": "NZD", "name": "New Zealand dollar", "symbol": "$" },
+      { "code": null, "name": "Pitcairn Islands dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/pcn.svg"
+  },
+  {
+    "name": "Poland",
+    "alpha2Code": "PL",
+    "alpha3Code": "POL",
+    "callingCodes": ["48"],
+    "borders": ["BLR", "CZE", "DEU", "LTU", "RUS", "SVK", "UKR"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "616",
+    "currencies": [{ "code": "PLN", "name": "Polish złoty", "symbol": "zł" }],
+    "languages": [
+      {
+        "iso639_1": "pl",
+        "iso639_2": "pol",
+        "name": "Polish",
+        "nativeName": "język polski"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/pol.svg"
+  },
+  {
+    "name": "Portugal",
+    "alpha2Code": "PT",
+    "alpha3Code": "PRT",
+    "callingCodes": ["351"],
+    "borders": ["ESP"],
+    "timezones": ["UTC-01:00", "UTC"],
+    "region": "Europe",
+    "numericCode": "620",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "pt",
+        "iso639_2": "por",
+        "name": "Portuguese",
+        "nativeName": "Português"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/prt.svg"
+  },
+  {
+    "name": "Puerto Rico",
+    "alpha2Code": "PR",
+    "alpha3Code": "PRI",
+    "callingCodes": ["1787", "1939"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "630",
+    "currencies": [
+      { "code": "USD", "name": "United States dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      },
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/pri.svg"
+  },
+  {
+    "name": "Qatar",
+    "alpha2Code": "QA",
+    "alpha3Code": "QAT",
+    "callingCodes": ["974"],
+    "borders": ["SAU"],
+    "timezones": ["UTC+03:00"],
+    "region": "Asia",
+    "numericCode": "634",
+    "currencies": [{ "code": "QAR", "name": "Qatari riyal", "symbol": "ر.ق" }],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/qat.svg"
+  },
+  {
+    "name": "Republic of Kosovo",
+    "alpha2Code": "XK",
+    "alpha3Code": "KOS",
+    "callingCodes": ["383"],
+    "borders": ["ALB", "MKD", "MNE", "SRB"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": null,
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "sq",
+        "iso639_2": "sqi",
+        "name": "Albanian",
+        "nativeName": "Shqip"
+      },
+      {
+        "iso639_1": "sr",
+        "iso639_2": "srp",
+        "name": "Serbian",
+        "nativeName": "српски језик"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/kos.svg"
+  },
+  {
+    "name": "Réunion",
+    "alpha2Code": "RE",
+    "alpha3Code": "REU",
+    "callingCodes": ["262"],
+    "borders": [],
+    "timezones": ["UTC+04:00"],
+    "region": "Africa",
+    "numericCode": "638",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/reu.svg"
+  },
+  {
+    "name": "Romania",
+    "alpha2Code": "RO",
+    "alpha3Code": "ROU",
+    "callingCodes": ["40"],
+    "borders": ["BGR", "HUN", "MDA", "SRB", "UKR"],
+    "timezones": ["UTC+02:00"],
+    "region": "Europe",
+    "numericCode": "642",
+    "currencies": [{ "code": "RON", "name": "Romanian leu", "symbol": "lei" }],
+    "languages": [
+      {
+        "iso639_1": "ro",
+        "iso639_2": "ron",
+        "name": "Romanian",
+        "nativeName": "Română"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/rou.svg"
+  },
+  {
+    "name": "Russian Federation",
+    "alpha2Code": "RU",
+    "alpha3Code": "RUS",
+    "callingCodes": ["7"],
+    "borders": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ],
+    "timezones": [
+      "UTC+03:00",
+      "UTC+04:00",
+      "UTC+06:00",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:00",
+      "UTC+10:00",
+      "UTC+11:00",
+      "UTC+12:00"
+    ],
+    "region": "Europe",
+    "numericCode": "643",
+    "currencies": [{ "code": "RUB", "name": "Russian ruble", "symbol": "₽" }],
+    "languages": [
+      {
+        "iso639_1": "ru",
+        "iso639_2": "rus",
+        "name": "Russian",
+        "nativeName": "Русский"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/rus.svg"
+  },
+  {
+    "name": "Rwanda",
+    "alpha2Code": "RW",
+    "alpha3Code": "RWA",
+    "callingCodes": ["250"],
+    "borders": ["BDI", "COD", "TZA", "UGA"],
+    "timezones": ["UTC+02:00"],
+    "region": "Africa",
+    "numericCode": "646",
+    "currencies": [{ "code": "RWF", "name": "Rwandan franc", "symbol": "Fr" }],
+    "languages": [
+      {
+        "iso639_1": "rw",
+        "iso639_2": "kin",
+        "name": "Kinyarwanda",
+        "nativeName": "Ikinyarwanda"
+      },
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/rwa.svg"
+  },
+  {
+    "name": "Saint Barthélemy",
+    "alpha2Code": "BL",
+    "alpha3Code": "BLM",
+    "callingCodes": ["590"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "652",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/blm.svg"
+  },
+  {
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "alpha2Code": "SH",
+    "alpha3Code": "SHN",
+    "callingCodes": ["290"],
+    "borders": [],
+    "timezones": ["UTC+00:00"],
+    "region": "Africa",
+    "numericCode": "654",
+    "currencies": [
+      { "code": "SHP", "name": "Saint Helena pound", "symbol": "£" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/shn.svg"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "alpha2Code": "KN",
+    "alpha3Code": "KNA",
+    "callingCodes": ["1869"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "659",
+    "currencies": [
+      { "code": "XCD", "name": "East Caribbean dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/kna.svg"
+  },
+  {
+    "name": "Saint Lucia",
+    "alpha2Code": "LC",
+    "alpha3Code": "LCA",
+    "callingCodes": ["1758"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "662",
+    "currencies": [
+      { "code": "XCD", "name": "East Caribbean dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/lca.svg"
+  },
+  {
+    "name": "Saint Martin (French part)",
+    "alpha2Code": "MF",
+    "alpha3Code": "MAF",
+    "callingCodes": ["590"],
+    "borders": ["SXM", "NLD"],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "663",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso639_1": "nl",
+        "iso639_2": "nld",
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/maf.svg"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "alpha2Code": "PM",
+    "alpha3Code": "SPM",
+    "callingCodes": ["508"],
+    "borders": [],
+    "timezones": ["UTC-03:00"],
+    "region": "Americas",
+    "numericCode": "666",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/spm.svg"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "alpha2Code": "VC",
+    "alpha3Code": "VCT",
+    "callingCodes": ["1784"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "670",
+    "currencies": [
+      { "code": "XCD", "name": "East Caribbean dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/vct.svg"
+  },
+  {
+    "name": "Samoa",
+    "alpha2Code": "WS",
+    "alpha3Code": "WSM",
+    "callingCodes": ["685"],
+    "borders": [],
+    "timezones": ["UTC+13:00"],
+    "region": "Oceania",
+    "numericCode": "882",
+    "currencies": [{ "code": "WST", "name": "Samoan tālā", "symbol": "T" }],
+    "languages": [
+      {
+        "iso639_1": "sm",
+        "iso639_2": "smo",
+        "name": "Samoan",
+        "nativeName": "gagana fa'a Samoa"
+      },
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/wsm.svg"
+  },
+  {
+    "name": "San Marino",
+    "alpha2Code": "SM",
+    "alpha3Code": "SMR",
+    "callingCodes": ["378"],
+    "borders": ["ITA"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "674",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "it",
+        "iso639_2": "ita",
+        "name": "Italian",
+        "nativeName": "Italiano"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/smr.svg"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "alpha2Code": "ST",
+    "alpha3Code": "STP",
+    "callingCodes": ["239"],
+    "borders": [],
+    "timezones": ["UTC"],
+    "region": "Africa",
+    "numericCode": "678",
+    "currencies": [
+      { "code": "STD", "name": "São Tomé and Príncipe dobra", "symbol": "Db" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "pt",
+        "iso639_2": "por",
+        "name": "Portuguese",
+        "nativeName": "Português"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/stp.svg"
+  },
+  {
+    "name": "Saudi Arabia",
+    "alpha2Code": "SA",
+    "alpha3Code": "SAU",
+    "callingCodes": ["966"],
+    "borders": ["IRQ", "JOR", "KWT", "OMN", "QAT", "ARE", "YEM"],
+    "timezones": ["UTC+03:00"],
+    "region": "Asia",
+    "numericCode": "682",
+    "currencies": [{ "code": "SAR", "name": "Saudi riyal", "symbol": "ر.س" }],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/sau.svg"
+  },
+  {
+    "name": "Senegal",
+    "alpha2Code": "SN",
+    "alpha3Code": "SEN",
+    "callingCodes": ["221"],
+    "borders": ["GMB", "GIN", "GNB", "MLI", "MRT"],
+    "timezones": ["UTC"],
+    "region": "Africa",
+    "numericCode": "686",
+    "currencies": [
+      { "code": "XOF", "name": "West African CFA franc", "symbol": "Fr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/sen.svg"
+  },
+  {
+    "name": "Serbia",
+    "alpha2Code": "RS",
+    "alpha3Code": "SRB",
+    "callingCodes": ["381"],
+    "borders": ["BIH", "BGR", "HRV", "HUN", "KOS", "MKD", "MNE", "ROU"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "688",
+    "currencies": [
+      { "code": "RSD", "name": "Serbian dinar", "symbol": "дин." }
+    ],
+    "languages": [
+      {
+        "iso639_1": "sr",
+        "iso639_2": "srp",
+        "name": "Serbian",
+        "nativeName": "српски језик"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/srb.svg"
+  },
+  {
+    "name": "Seychelles",
+    "alpha2Code": "SC",
+    "alpha3Code": "SYC",
+    "callingCodes": ["248"],
+    "borders": [],
+    "timezones": ["UTC+04:00"],
+    "region": "Africa",
+    "numericCode": "690",
+    "currencies": [
+      { "code": "SCR", "name": "Seychellois rupee", "symbol": "₨" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/syc.svg"
+  },
+  {
+    "name": "Sierra Leone",
+    "alpha2Code": "SL",
+    "alpha3Code": "SLE",
+    "callingCodes": ["232"],
+    "borders": ["GIN", "LBR"],
+    "timezones": ["UTC"],
+    "region": "Africa",
+    "numericCode": "694",
+    "currencies": [
+      { "code": "SLL", "name": "Sierra Leonean leone", "symbol": "Le" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/sle.svg"
+  },
+  {
+    "name": "Singapore",
+    "alpha2Code": "SG",
+    "alpha3Code": "SGP",
+    "callingCodes": ["65"],
+    "borders": [],
+    "timezones": ["UTC+08:00"],
+    "region": "Asia",
+    "numericCode": "702",
+    "currencies": [
+      { "code": "BND", "name": "Brunei dollar", "symbol": "$" },
+      { "code": "SGD", "name": "Singapore dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "ms",
+        "iso639_2": "msa",
+        "name": "Malay",
+        "nativeName": "bahasa Melayu"
+      },
+      {
+        "iso639_1": "ta",
+        "iso639_2": "tam",
+        "name": "Tamil",
+        "nativeName": "தமிழ்"
+      },
+      {
+        "iso639_1": "zh",
+        "iso639_2": "zho",
+        "name": "Chinese",
+        "nativeName": "中文 (Zhōngwén)"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/sgp.svg"
+  },
+  {
+    "name": "Sint Maarten (Dutch part)",
+    "alpha2Code": "SX",
+    "alpha3Code": "SXM",
+    "callingCodes": ["1721"],
+    "borders": ["MAF"],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "534",
+    "currencies": [
+      { "code": "ANG", "name": "Netherlands Antillean guilder", "symbol": "ƒ" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "nl",
+        "iso639_2": "nld",
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+      },
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/sxm.svg"
+  },
+  {
+    "name": "Slovakia",
+    "alpha2Code": "SK",
+    "alpha3Code": "SVK",
+    "callingCodes": ["421"],
+    "borders": ["AUT", "CZE", "HUN", "POL", "UKR"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "703",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "sk",
+        "iso639_2": "slk",
+        "name": "Slovak",
+        "nativeName": "slovenčina"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/svk.svg"
+  },
+  {
+    "name": "Slovenia",
+    "alpha2Code": "SI",
+    "alpha3Code": "SVN",
+    "callingCodes": ["386"],
+    "borders": ["AUT", "HRV", "ITA", "HUN"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "705",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "sl",
+        "iso639_2": "slv",
+        "name": "Slovene",
+        "nativeName": "slovenski jezik"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/svn.svg"
+  },
+  {
+    "name": "Solomon Islands",
+    "alpha2Code": "SB",
+    "alpha3Code": "SLB",
+    "callingCodes": ["677"],
+    "borders": [],
+    "timezones": ["UTC+11:00"],
+    "region": "Oceania",
+    "numericCode": "090",
+    "currencies": [
+      { "code": "SBD", "name": "Solomon Islands dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/slb.svg"
+  },
+  {
+    "name": "Somalia",
+    "alpha2Code": "SO",
+    "alpha3Code": "SOM",
+    "callingCodes": ["252"],
+    "borders": ["DJI", "ETH", "KEN"],
+    "timezones": ["UTC+03:00"],
+    "region": "Africa",
+    "numericCode": "706",
+    "currencies": [
+      { "code": "SOS", "name": "Somali shilling", "symbol": "Sh" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "so",
+        "iso639_2": "som",
+        "name": "Somali",
+        "nativeName": "Soomaaliga"
+      },
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/som.svg"
+  },
+  {
+    "name": "South Africa",
+    "alpha2Code": "ZA",
+    "alpha3Code": "ZAF",
+    "callingCodes": ["27"],
+    "borders": ["BWA", "LSO", "MOZ", "NAM", "SWZ", "ZWE"],
+    "timezones": ["UTC+02:00"],
+    "region": "Africa",
+    "numericCode": "710",
+    "currencies": [
+      { "code": "ZAR", "name": "South African rand", "symbol": "R" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "af",
+        "iso639_2": "afr",
+        "name": "Afrikaans",
+        "nativeName": "Afrikaans"
+      },
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "nr",
+        "iso639_2": "nbl",
+        "name": "Southern Ndebele",
+        "nativeName": "isiNdebele"
+      },
+      {
+        "iso639_1": "st",
+        "iso639_2": "sot",
+        "name": "Southern Sotho",
+        "nativeName": "Sesotho"
+      },
+      {
+        "iso639_1": "ss",
+        "iso639_2": "ssw",
+        "name": "Swati",
+        "nativeName": "SiSwati"
+      },
+      {
+        "iso639_1": "tn",
+        "iso639_2": "tsn",
+        "name": "Tswana",
+        "nativeName": "Setswana"
+      },
+      {
+        "iso639_1": "ts",
+        "iso639_2": "tso",
+        "name": "Tsonga",
+        "nativeName": "Xitsonga"
+      },
+      {
+        "iso639_1": "ve",
+        "iso639_2": "ven",
+        "name": "Venda",
+        "nativeName": "Tshivenḓa"
+      },
+      {
+        "iso639_1": "xh",
+        "iso639_2": "xho",
+        "name": "Xhosa",
+        "nativeName": "isiXhosa"
+      },
+      {
+        "iso639_1": "zu",
+        "iso639_2": "zul",
+        "name": "Zulu",
+        "nativeName": "isiZulu"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/zaf.svg"
+  },
+  {
+    "name": "South Georgia and the South Sandwich Islands",
+    "alpha2Code": "GS",
+    "alpha3Code": "SGS",
+    "callingCodes": ["500"],
+    "borders": [],
+    "timezones": ["UTC-02:00"],
+    "region": "Americas",
+    "numericCode": "239",
+    "currencies": [
+      { "code": "GBP", "name": "British pound", "symbol": "£" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/sgs.svg"
+  },
+  {
+    "name": "Korea (Republic of)",
+    "alpha2Code": "KR",
+    "alpha3Code": "KOR",
+    "callingCodes": ["82"],
+    "borders": ["PRK"],
+    "timezones": ["UTC+09:00"],
+    "region": "Asia",
+    "numericCode": "410",
+    "currencies": [
+      { "code": "KRW", "name": "South Korean won", "symbol": "₩" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "ko",
+        "iso639_2": "kor",
+        "name": "Korean",
+        "nativeName": "한국어"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/kor.svg"
+  },
+  {
+    "name": "South Sudan",
+    "alpha2Code": "SS",
+    "alpha3Code": "SSD",
+    "callingCodes": ["211"],
+    "borders": ["CAF", "COD", "ETH", "KEN", "SDN", "UGA"],
+    "timezones": ["UTC+03:00"],
+    "region": "Africa",
+    "numericCode": "728",
+    "currencies": [
+      { "code": "SSP", "name": "South Sudanese pound", "symbol": "£" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/ssd.svg"
+  },
+  {
+    "name": "Spain",
+    "alpha2Code": "ES",
+    "alpha3Code": "ESP",
+    "callingCodes": ["34"],
+    "borders": ["AND", "FRA", "GIB", "PRT", "MAR"],
+    "timezones": ["UTC", "UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "724",
+    "currencies": [{ "code": "EUR", "name": "Euro", "symbol": "€" }],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/esp.svg"
+  },
+  {
+    "name": "Sri Lanka",
+    "alpha2Code": "LK",
+    "alpha3Code": "LKA",
+    "callingCodes": ["94"],
+    "borders": ["IND"],
+    "timezones": ["UTC+05:30"],
+    "region": "Asia",
+    "numericCode": "144",
+    "currencies": [
+      { "code": "LKR", "name": "Sri Lankan rupee", "symbol": "Rs" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "si",
+        "iso639_2": "sin",
+        "name": "Sinhalese",
+        "nativeName": "සිංහල"
+      },
+      {
+        "iso639_1": "ta",
+        "iso639_2": "tam",
+        "name": "Tamil",
+        "nativeName": "தமிழ்"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/lka.svg"
+  },
+  {
+    "name": "Sudan",
+    "alpha2Code": "SD",
+    "alpha3Code": "SDN",
+    "callingCodes": ["249"],
+    "borders": ["CAF", "TCD", "EGY", "ERI", "ETH", "LBY", "SSD"],
+    "timezones": ["UTC+03:00"],
+    "region": "Africa",
+    "numericCode": "729",
+    "currencies": [
+      { "code": "SDG", "name": "Sudanese pound", "symbol": "ج.س." }
+    ],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      },
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/sdn.svg"
+  },
+  {
+    "name": "Suriname",
+    "alpha2Code": "SR",
+    "alpha3Code": "SUR",
+    "callingCodes": ["597"],
+    "borders": ["BRA", "GUF", "FRA", "GUY"],
+    "timezones": ["UTC-03:00"],
+    "region": "Americas",
+    "numericCode": "740",
+    "currencies": [
+      { "code": "SRD", "name": "Surinamese dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "nl",
+        "iso639_2": "nld",
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/sur.svg"
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "alpha2Code": "SJ",
+    "alpha3Code": "SJM",
+    "callingCodes": ["4779"],
+    "borders": [],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "744",
+    "currencies": [
+      { "code": "NOK", "name": "Norwegian krone", "symbol": "kr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "no",
+        "iso639_2": "nor",
+        "name": "Norwegian",
+        "nativeName": "Norsk"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/sjm.svg"
+  },
+  {
+    "name": "Swaziland",
+    "alpha2Code": "SZ",
+    "alpha3Code": "SWZ",
+    "callingCodes": ["268"],
+    "borders": ["MOZ", "ZAF"],
+    "timezones": ["UTC+02:00"],
+    "region": "Africa",
+    "numericCode": "748",
+    "currencies": [{ "code": "SZL", "name": "Swazi lilangeni", "symbol": "L" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "ss",
+        "iso639_2": "ssw",
+        "name": "Swati",
+        "nativeName": "SiSwati"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/swz.svg"
+  },
+  {
+    "name": "Sweden",
+    "alpha2Code": "SE",
+    "alpha3Code": "SWE",
+    "callingCodes": ["46"],
+    "borders": ["FIN", "NOR"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "752",
+    "currencies": [{ "code": "SEK", "name": "Swedish krona", "symbol": "kr" }],
+    "languages": [
+      {
+        "iso639_1": "sv",
+        "iso639_2": "swe",
+        "name": "Swedish",
+        "nativeName": "svenska"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/swe.svg"
+  },
+  {
+    "name": "Switzerland",
+    "alpha2Code": "CH",
+    "alpha3Code": "CHE",
+    "callingCodes": ["41"],
+    "borders": ["AUT", "FRA", "ITA", "LIE", "DEU"],
+    "timezones": ["UTC+01:00"],
+    "region": "Europe",
+    "numericCode": "756",
+    "currencies": [{ "code": "CHF", "name": "Swiss franc", "symbol": "Fr" }],
+    "languages": [
+      {
+        "iso639_1": "de",
+        "iso639_2": "deu",
+        "name": "German",
+        "nativeName": "Deutsch"
+      },
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      },
+      {
+        "iso639_1": "it",
+        "iso639_2": "ita",
+        "name": "Italian",
+        "nativeName": "Italiano"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/che.svg"
+  },
+  {
+    "name": "Syrian Arab Republic",
+    "alpha2Code": "SY",
+    "alpha3Code": "SYR",
+    "callingCodes": ["963"],
+    "borders": ["IRQ", "ISR", "JOR", "LBN", "TUR"],
+    "timezones": ["UTC+02:00"],
+    "region": "Asia",
+    "numericCode": "760",
+    "currencies": [{ "code": "SYP", "name": "Syrian pound", "symbol": "£" }],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/syr.svg"
+  },
+  {
+    "name": "Taiwan",
+    "alpha2Code": "TW",
+    "alpha3Code": "TWN",
+    "callingCodes": ["886"],
+    "borders": [],
+    "timezones": ["UTC+08:00"],
+    "region": "Asia",
+    "numericCode": "158",
+    "currencies": [
+      { "code": "TWD", "name": "New Taiwan dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "zh",
+        "iso639_2": "zho",
+        "name": "Chinese",
+        "nativeName": "中文 (Zhōngwén)"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/twn.svg"
+  },
+  {
+    "name": "Tajikistan",
+    "alpha2Code": "TJ",
+    "alpha3Code": "TJK",
+    "callingCodes": ["992"],
+    "borders": ["AFG", "CHN", "KGZ", "UZB"],
+    "timezones": ["UTC+05:00"],
+    "region": "Asia",
+    "numericCode": "762",
+    "currencies": [
+      { "code": "TJS", "name": "Tajikistani somoni", "symbol": "ЅМ" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "tg",
+        "iso639_2": "tgk",
+        "name": "Tajik",
+        "nativeName": "тоҷикӣ"
+      },
+      {
+        "iso639_1": "ru",
+        "iso639_2": "rus",
+        "name": "Russian",
+        "nativeName": "Русский"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/tjk.svg"
+  },
+  {
+    "name": "Tanzania, United Republic of",
+    "alpha2Code": "TZ",
+    "alpha3Code": "TZA",
+    "callingCodes": ["255"],
+    "borders": ["BDI", "COD", "KEN", "MWI", "MOZ", "RWA", "UGA", "ZMB"],
+    "timezones": ["UTC+03:00"],
+    "region": "Africa",
+    "numericCode": "834",
+    "currencies": [
+      { "code": "TZS", "name": "Tanzanian shilling", "symbol": "Sh" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "sw",
+        "iso639_2": "swa",
+        "name": "Swahili",
+        "nativeName": "Kiswahili"
+      },
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/tza.svg"
+  },
+  {
+    "name": "Thailand",
+    "alpha2Code": "TH",
+    "alpha3Code": "THA",
+    "callingCodes": ["66"],
+    "borders": ["MMR", "KHM", "LAO", "MYS"],
+    "timezones": ["UTC+07:00"],
+    "region": "Asia",
+    "numericCode": "764",
+    "currencies": [{ "code": "THB", "name": "Thai baht", "symbol": "฿" }],
+    "languages": [
+      {
+        "iso639_1": "th",
+        "iso639_2": "tha",
+        "name": "Thai",
+        "nativeName": "ไทย"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/tha.svg"
+  },
+  {
+    "name": "Timor-Leste",
+    "alpha2Code": "TL",
+    "alpha3Code": "TLS",
+    "callingCodes": ["670"],
+    "borders": ["IDN"],
+    "timezones": ["UTC+09:00"],
+    "region": "Asia",
+    "numericCode": "626",
+    "currencies": [
+      { "code": "USD", "name": "United States dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "pt",
+        "iso639_2": "por",
+        "name": "Portuguese",
+        "nativeName": "Português"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/tls.svg"
+  },
+  {
+    "name": "Togo",
+    "alpha2Code": "TG",
+    "alpha3Code": "TGO",
+    "callingCodes": ["228"],
+    "borders": ["BEN", "BFA", "GHA"],
+    "timezones": ["UTC"],
+    "region": "Africa",
+    "numericCode": "768",
+    "currencies": [
+      { "code": "XOF", "name": "West African CFA franc", "symbol": "Fr" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/tgo.svg"
+  },
+  {
+    "name": "Tokelau",
+    "alpha2Code": "TK",
+    "alpha3Code": "TKL",
+    "callingCodes": ["690"],
+    "borders": [],
+    "timezones": ["UTC+13:00"],
+    "region": "Oceania",
+    "numericCode": "772",
+    "currencies": [
+      { "code": "NZD", "name": "New Zealand dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/tkl.svg"
+  },
+  {
+    "name": "Tonga",
+    "alpha2Code": "TO",
+    "alpha3Code": "TON",
+    "callingCodes": ["676"],
+    "borders": [],
+    "timezones": ["UTC+13:00"],
+    "region": "Oceania",
+    "numericCode": "776",
+    "currencies": [{ "code": "TOP", "name": "Tongan paʻanga", "symbol": "T$" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "to",
+        "iso639_2": "ton",
+        "name": "Tonga (Tonga Islands)",
+        "nativeName": "faka Tonga"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/ton.svg"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "alpha2Code": "TT",
+    "alpha3Code": "TTO",
+    "callingCodes": ["1868"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "780",
+    "currencies": [
+      { "code": "TTD", "name": "Trinidad and Tobago dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/tto.svg"
+  },
+  {
+    "name": "Tunisia",
+    "alpha2Code": "TN",
+    "alpha3Code": "TUN",
+    "callingCodes": ["216"],
+    "borders": ["DZA", "LBY"],
+    "timezones": ["UTC+01:00"],
+    "region": "Africa",
+    "numericCode": "788",
+    "currencies": [
+      { "code": "TND", "name": "Tunisian dinar", "symbol": "د.ت" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/tun.svg"
+  },
+  {
+    "name": "Turkey",
+    "alpha2Code": "TR",
+    "alpha3Code": "TUR",
+    "callingCodes": ["90"],
+    "borders": ["ARM", "AZE", "BGR", "GEO", "GRC", "IRN", "IRQ", "SYR"],
+    "timezones": ["UTC+03:00"],
+    "region": "Asia",
+    "numericCode": "792",
+    "currencies": [{ "code": "TRY", "name": "Turkish lira", "symbol": null }],
+    "languages": [
+      {
+        "iso639_1": "tr",
+        "iso639_2": "tur",
+        "name": "Turkish",
+        "nativeName": "Türkçe"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/tur.svg"
+  },
+  {
+    "name": "Turkmenistan",
+    "alpha2Code": "TM",
+    "alpha3Code": "TKM",
+    "callingCodes": ["993"],
+    "borders": ["AFG", "IRN", "KAZ", "UZB"],
+    "timezones": ["UTC+05:00"],
+    "region": "Asia",
+    "numericCode": "795",
+    "currencies": [
+      { "code": "TMT", "name": "Turkmenistan manat", "symbol": "m" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "tk",
+        "iso639_2": "tuk",
+        "name": "Turkmen",
+        "nativeName": "Türkmen"
+      },
+      {
+        "iso639_1": "ru",
+        "iso639_2": "rus",
+        "name": "Russian",
+        "nativeName": "Русский"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/tkm.svg"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "alpha2Code": "TC",
+    "alpha3Code": "TCA",
+    "callingCodes": ["1649"],
+    "borders": [],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "796",
+    "currencies": [
+      { "code": "USD", "name": "United States dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/tca.svg"
+  },
+  {
+    "name": "Tuvalu",
+    "alpha2Code": "TV",
+    "alpha3Code": "TUV",
+    "callingCodes": ["688"],
+    "borders": [],
+    "timezones": ["UTC+12:00"],
+    "region": "Oceania",
+    "numericCode": "798",
+    "currencies": [
+      { "code": "AUD", "name": "Australian dollar", "symbol": "$" },
+      { "code": "TVD[G]", "name": "Tuvaluan dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/tuv.svg"
+  },
+  {
+    "name": "Uganda",
+    "alpha2Code": "UG",
+    "alpha3Code": "UGA",
+    "callingCodes": ["256"],
+    "borders": ["COD", "KEN", "RWA", "SSD", "TZA"],
+    "timezones": ["UTC+03:00"],
+    "region": "Africa",
+    "numericCode": "800",
+    "currencies": [
+      { "code": "UGX", "name": "Ugandan shilling", "symbol": "Sh" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "sw",
+        "iso639_2": "swa",
+        "name": "Swahili",
+        "nativeName": "Kiswahili"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/uga.svg"
+  },
+  {
+    "name": "Ukraine",
+    "alpha2Code": "UA",
+    "alpha3Code": "UKR",
+    "callingCodes": ["380"],
+    "borders": ["BLR", "HUN", "MDA", "POL", "ROU", "RUS", "SVK"],
+    "timezones": ["UTC+02:00"],
+    "region": "Europe",
+    "numericCode": "804",
+    "currencies": [
+      { "code": "UAH", "name": "Ukrainian hryvnia", "symbol": "₴" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "uk",
+        "iso639_2": "ukr",
+        "name": "Ukrainian",
+        "nativeName": "Українська"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/ukr.svg"
+  },
+  {
+    "name": "United Arab Emirates",
+    "alpha2Code": "AE",
+    "alpha3Code": "ARE",
+    "callingCodes": ["971"],
+    "borders": ["OMN", "SAU"],
+    "timezones": ["UTC+04"],
+    "region": "Asia",
+    "numericCode": "784",
+    "currencies": [
+      { "code": "AED", "name": "United Arab Emirates dirham", "symbol": "د.إ" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/are.svg"
+  },
+  {
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "alpha2Code": "GB",
+    "alpha3Code": "GBR",
+    "callingCodes": ["44"],
+    "borders": ["IRL"],
+    "timezones": [
+      "UTC-08:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00",
+      "UTC",
+      "UTC+01:00",
+      "UTC+02:00",
+      "UTC+06:00"
+    ],
+    "region": "Europe",
+    "numericCode": "826",
+    "currencies": [{ "code": "GBP", "name": "British pound", "symbol": "£" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/gbr.svg"
+  },
+  {
+    "name": "United States of America",
+    "alpha2Code": "US",
+    "alpha3Code": "USA",
+    "callingCodes": ["1"],
+    "borders": ["CAN", "MEX"],
+    "timezones": [
+      "UTC-12:00",
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC+10:00",
+      "UTC+12:00"
+    ],
+    "region": "Americas",
+    "numericCode": "840",
+    "currencies": [
+      { "code": "USD", "name": "United States dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/usa.svg"
+  },
+  {
+    "name": "Uruguay",
+    "alpha2Code": "UY",
+    "alpha3Code": "URY",
+    "callingCodes": ["598"],
+    "borders": ["ARG", "BRA"],
+    "timezones": ["UTC-03:00"],
+    "region": "Americas",
+    "numericCode": "858",
+    "currencies": [{ "code": "UYU", "name": "Uruguayan peso", "symbol": "$" }],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/ury.svg"
+  },
+  {
+    "name": "Uzbekistan",
+    "alpha2Code": "UZ",
+    "alpha3Code": "UZB",
+    "callingCodes": ["998"],
+    "borders": ["AFG", "KAZ", "KGZ", "TJK", "TKM"],
+    "timezones": ["UTC+05:00"],
+    "region": "Asia",
+    "numericCode": "860",
+    "currencies": [
+      { "code": "UZS", "name": "Uzbekistani so'm", "symbol": null }
+    ],
+    "languages": [
+      {
+        "iso639_1": "uz",
+        "iso639_2": "uzb",
+        "name": "Uzbek",
+        "nativeName": "Oʻzbek"
+      },
+      {
+        "iso639_1": "ru",
+        "iso639_2": "rus",
+        "name": "Russian",
+        "nativeName": "Русский"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/uzb.svg"
+  },
+  {
+    "name": "Vanuatu",
+    "alpha2Code": "VU",
+    "alpha3Code": "VUT",
+    "callingCodes": ["678"],
+    "borders": [],
+    "timezones": ["UTC+11:00"],
+    "region": "Oceania",
+    "numericCode": "548",
+    "currencies": [{ "code": "VUV", "name": "Vanuatu vatu", "symbol": "Vt" }],
+    "languages": [
+      {
+        "iso639_1": "bi",
+        "iso639_2": "bis",
+        "name": "Bislama",
+        "nativeName": "Bislama"
+      },
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/vut.svg"
+  },
+  {
+    "name": "Venezuela (Bolivarian Republic of)",
+    "alpha2Code": "VE",
+    "alpha3Code": "VEN",
+    "callingCodes": ["58"],
+    "borders": ["BRA", "COL", "GUY"],
+    "timezones": ["UTC-04:00"],
+    "region": "Americas",
+    "numericCode": "862",
+    "currencies": [
+      { "code": "VEF", "name": "Venezuelan bolívar", "symbol": "Bs F" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/ven.svg"
+  },
+  {
+    "name": "Viet Nam",
+    "alpha2Code": "VN",
+    "alpha3Code": "VNM",
+    "callingCodes": ["84"],
+    "borders": ["KHM", "CHN", "LAO"],
+    "timezones": ["UTC+07:00"],
+    "region": "Asia",
+    "numericCode": "704",
+    "currencies": [{ "code": "VND", "name": "Vietnamese đồng", "symbol": "₫" }],
+    "languages": [
+      {
+        "iso639_1": "vi",
+        "iso639_2": "vie",
+        "name": "Vietnamese",
+        "nativeName": "Tiếng Việt"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/vnm.svg"
+  },
+  {
+    "name": "Wallis and Futuna",
+    "alpha2Code": "WF",
+    "alpha3Code": "WLF",
+    "callingCodes": ["681"],
+    "borders": [],
+    "timezones": ["UTC+12:00"],
+    "region": "Oceania",
+    "numericCode": "876",
+    "currencies": [{ "code": "XPF", "name": "CFP franc", "symbol": "Fr" }],
+    "languages": [
+      {
+        "iso639_1": "fr",
+        "iso639_2": "fra",
+        "name": "French",
+        "nativeName": "français"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/wlf.svg"
+  },
+  {
+    "name": "Western Sahara",
+    "alpha2Code": "EH",
+    "alpha3Code": "ESH",
+    "callingCodes": ["212"],
+    "borders": ["DZA", "MRT", "MAR"],
+    "timezones": ["UTC+00:00"],
+    "region": "Africa",
+    "numericCode": "732",
+    "currencies": [
+      { "code": "MAD", "name": "Moroccan dirham", "symbol": "د.م." },
+      { "code": "DZD", "name": "Algerian dinar", "symbol": "د.ج" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "es",
+        "iso639_2": "spa",
+        "name": "Spanish",
+        "nativeName": "Español"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/esh.svg"
+  },
+  {
+    "name": "Yemen",
+    "alpha2Code": "YE",
+    "alpha3Code": "YEM",
+    "callingCodes": ["967"],
+    "borders": ["OMN", "SAU"],
+    "timezones": ["UTC+03:00"],
+    "region": "Asia",
+    "numericCode": "887",
+    "currencies": [{ "code": "YER", "name": "Yemeni rial", "symbol": "﷼" }],
+    "languages": [
+      {
+        "iso639_1": "ar",
+        "iso639_2": "ara",
+        "name": "Arabic",
+        "nativeName": "العربية"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/yem.svg"
+  },
+  {
+    "name": "Zambia",
+    "alpha2Code": "ZM",
+    "alpha3Code": "ZMB",
+    "callingCodes": ["260"],
+    "borders": ["AGO", "BWA", "COD", "MWI", "MOZ", "NAM", "TZA", "ZWE"],
+    "timezones": ["UTC+02:00"],
+    "region": "Africa",
+    "numericCode": "894",
+    "currencies": [{ "code": "ZMW", "name": "Zambian kwacha", "symbol": "ZK" }],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/zmb.svg"
+  },
+  {
+    "name": "Zimbabwe",
+    "alpha2Code": "ZW",
+    "alpha3Code": "ZWE",
+    "callingCodes": ["263"],
+    "borders": ["BWA", "MOZ", "ZAF", "ZMB"],
+    "timezones": ["UTC+02:00"],
+    "region": "Africa",
+    "numericCode": "716",
+    "currencies": [
+      { "code": "BWP", "name": "Botswana pula", "symbol": "P" },
+      { "code": "GBP", "name": "British pound", "symbol": "£" },
+      { "code": "CNY", "name": "Chinese yuan", "symbol": "¥" },
+      { "code": "EUR", "name": "Euro", "symbol": "€" },
+      { "code": "INR", "name": "Indian rupee", "symbol": "₹" },
+      { "code": "JPY", "name": "Japanese yen", "symbol": "¥" },
+      { "code": "ZAR", "name": "South African rand", "symbol": "Rs" },
+      { "code": "USD", "name": "United States dollar", "symbol": "$" }
+    ],
+    "languages": [
+      {
+        "iso639_1": "en",
+        "iso639_2": "eng",
+        "name": "English",
+        "nativeName": "English"
+      },
+      {
+        "iso639_1": "sn",
+        "iso639_2": "sna",
+        "name": "Shona",
+        "nativeName": "chiShona"
+      },
+      {
+        "iso639_1": "nd",
+        "iso639_2": "nde",
+        "name": "Northern Ndebele",
+        "nativeName": "isiNdebele"
+      }
+    ],
+    "flag": "https://restcountries.eu/data/zwe.svg"
+  }
+]
