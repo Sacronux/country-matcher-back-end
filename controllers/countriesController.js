@@ -1,8 +1,6 @@
 const User = require('../models/User')
 const Country = require('../models/Country')
 const { validationResult } = require('express-validator')
-
-const countries = require('../countries.json')
  
 class authController {
   async setCountry(req, res) {

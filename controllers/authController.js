@@ -23,7 +23,7 @@ class authController {
       const { username, password } = req.body
       const candidate = await User.findOne({username})
       if (candidate) {
-        return res.status(400).json({ message: 'User with the same name already exists ' })
+        return res.status(400).json({ message: `User with the name ${username} already exists` })
       }
       const hashPassword = bcrypt.hashSync(password, 7)
       const userRole = await Role.findOne({ value: 'user' })

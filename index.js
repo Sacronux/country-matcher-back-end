@@ -1,15 +1,15 @@
 const express = require('express')
+const cors = require('cors');
 const mongoose = require('mongoose')
 const authRouter = require('./Routers/authRouter')
 const countriesRouter = require('./Routers/countriesRouter')
-const countryList = require('./countryList.json')
-const { writeFile } = require('fs')
 
 const PORT = process.env.PORT || 5000
 
 const app = express()
 
 app.use(express.json())
+app.use(cors())
 app.use('/auth', authRouter)
 app.use('/countries', countriesRouter)
 
