@@ -1,17 +1,41 @@
+"use strict"
 const User = require('../models/User')
 const Role = require('../models/Role')
 const bcrypt = require('bcryptjs')
 const jwt = require('jsonwebtoken')
 const { validationResult } = require('express-validator')
 const { secret } = require('../config')
+const { asAdmin, asModerator } = require('../utils/authUtils')
 
-const generateAccessToken = (id, roles) => {
+const generateAccessToken = (id, roles, username) => {
   const payload = {
     id,
+    roles,
+    username,
+  }
+  return jwt.sign(payload, secret, { expiresIn: '1m' })
+}
+
+const verifyAccessToken = (token) => {
+  try {
+    return jwt.verify(token, secret)
+  } catch (e) {
+    return null
+  }
+}
+
+const renewAuthByToken = (token, payloadByToken) => {
+  const { username, roles } = payloadByToken
+  response = {
+    token,
+    username,
     roles
   }
-  return jwt.sign(payload, secret, { expiresIn: '24h' })
+  return res.json(response)
 }
+
+const checkUserForAdminRole = (user) => user.roles?.includes('admin')
+const checkUserForModeratorRole = (user) => user.roles?.includes('moderator')
  
 class authController {
   async registration(req, res) {
@@ -38,22 +62,43 @@ class authController {
 
   async login(req, res) {
     try {
-      const { username, password } = req.body
+      const { username, password, token, asAdmin, asModerator } = req.body
+      let response
+      let userIsAdmin
+      let userIsModerator
+      const payloadByToken = verifyAccessToken(token)
+
+      if (token && payloadByToken) {
+        return renewAuthByToken(token, payloadByToken)
+      }
+
       const user = await User.findOne({username})
       if (!user) {
         res.status(400).json({message: `User "${username}" does not exist`})
       }
       const validPassword = bcrypt.compareSync(password, user.password)
       if (!validPassword) {
-        res.status(400).json({message: 'Invalid password'})
+        return res.status(400).json({message: 'Invalid password'})
       }
-      const token = generateAccessToken(user._id, user.roles)
-      const userResponse = {
-        token,
-        user: user.username,
+      if (asAdmin) {
+        if (!checkUserForAdminRole(user)) {
+          return res.status(400).json({message: `User "${username}" is not an admin`})
+        }
+        userIsAdmin = true
+      }
+      if (asModerator) {
+        if (!checkUserForModeratorRole(user) && !checkUserForAdminRole(user)) {
+          return res.status(400).json({message: `User "${username}" is not a moderator`})
+        }
+        userIsModerator = true
+      }   
+      const newToken = generateAccessToken(user._id, user.roles, user.username)
+      response = {
+        token: newToken,
+        username: user.username,
         roles: user.roles,
       }
-      return res.json(userResponse)
+      return res.json(response)
     } catch (e) {
       console.log(e)
       res.status(400).json({message: 'Login error'})
