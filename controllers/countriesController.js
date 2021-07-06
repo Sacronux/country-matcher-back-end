@@ -1,4 +1,3 @@
-const User = require('../models/User')
 const Country = require('../models/Country')
 const { validationResult } = require('express-validator')
  
@@ -45,8 +44,9 @@ class authController {
 
   async getCountries(req, res) {
     try {
-      const users = await User.find()
-      res.json(users)
+      const countries = await Country.find()
+      
+      res.json(countries)
     } catch (e) {
       console.log(e)
     }

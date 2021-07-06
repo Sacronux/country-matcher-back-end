@@ -47,7 +47,7 @@ class authController {
       const { username, password } = req.body
       const candidate = await User.findOne({username})
       if (candidate) {
-        return res.status(400).json({ message: `User with the name ${username} already exists` })
+        return res.status(403).json({ message: `User with the name ${username} already exists` })
       }
       const hashPassword = bcrypt.hashSync(password, 7)
       const userRole = await Role.findOne({ value: 'user' })
@@ -74,7 +74,7 @@ class authController {
 
       const user = await User.findOne({username})
       if (!user) {
-        res.status(400).json({message: `User "${username}" does not exist`})
+        return res.status(400).json({error: `User ${username} does not exist`})
       }
       const validPassword = bcrypt.compareSync(password, user.password)
       if (!validPassword) {
@@ -82,13 +82,13 @@ class authController {
       }
       if (asAdmin) {
         if (!checkUserForAdminRole(user)) {
-          return res.status(400).json({message: `User "${username}" is not an admin`})
+          return res.status(400).json({message: `User ${username} is not an admin`})
         }
         userIsAdmin = true
       }
       if (asModerator) {
         if (!checkUserForModeratorRole(user) && !checkUserForAdminRole(user)) {
-          return res.status(400).json({message: `User "${username}" is not a moderator`})
+          return res.status(400).json({message: `User ${username} is not a moderator`})
         }
         userIsModerator = true
       }   
