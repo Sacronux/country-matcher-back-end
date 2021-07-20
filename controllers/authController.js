@@ -13,7 +13,7 @@ const generateAccessToken = (id, roles, username) => {
     roles,
     username,
   }
-  return jwt.sign(payload, secret, { expiresIn: '1m' })
+  return jwt.sign(payload, secret, { expiresIn: '180d' })
 }
 
 const verifyAccessToken = (token) => {
@@ -24,9 +24,9 @@ const verifyAccessToken = (token) => {
   }
 }
 
-const renewAuthByToken = (token, payloadByToken) => {
+const renewAuthByToken = (token, payloadByToken, res) => {
   const { username, roles } = payloadByToken
-  response = {
+  const response = {
     token,
     username,
     roles
@@ -69,7 +69,7 @@ class authController {
       const payloadByToken = verifyAccessToken(token)
 
       if (token && payloadByToken) {
-        return renewAuthByToken(token, payloadByToken)
+        return renewAuthByToken(token, payloadByToken, res)
       }
 
       const user = await User.findOne({username})
