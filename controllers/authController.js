@@ -6,33 +6,7 @@ const jwt = require('jsonwebtoken')
 const { validationResult } = require('express-validator')
 const { secret } = require('../config')
 const { asAdmin, asModerator } = require('../utils/authUtils')
-
-const generateAccessToken = (id, roles, username) => {
-  const payload = {
-    id,
-    roles,
-    username,
-  }
-  return jwt.sign(payload, secret, { expiresIn: '180d' })
-}
-
-const verifyAccessToken = (token) => {
-  try {
-    return jwt.verify(token, secret)
-  } catch (e) {
-    return null
-  }
-}
-
-const renewAuthByToken = (token, payloadByToken, res) => {
-  const { username, roles } = payloadByToken
-  const response = {
-    token,
-    username,
-    roles
-  }
-  return res.json(response)
-}
+const { verifyAccessToken, renewAuthByToken, generateAccessToken } = require('../utils/userUtils')
 
 const checkUserForAdminRole = (user) => user.roles?.includes('admin')
 const checkUserForModeratorRole = (user) => user.roles?.includes('moderator')
