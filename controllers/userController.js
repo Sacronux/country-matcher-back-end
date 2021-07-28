@@ -4,14 +4,13 @@ const { verifyAccessToken } = require('../utils/userUtils');
 class userController {
   updateUserData = async (req, res) => {
     try {
-      const { username, password, citizenship } = req.body
+      const { username, citizenship } = req.body
       const payloadByToken = verifyAccessToken(token)
       if (!payloadByToken) {
         return res.status(403).json({  })
       }
       const candidate = await User.findOneAndUpdate({ username }, {
         username,
-        password,
         citizenship
       })
       await candidate.save()
