@@ -5,18 +5,25 @@ class userController {
   updateUserData = async (req, res) => {
     try {
       const { username, citizenship } = req.body
-      const payloadByToken = verifyAccessToken(token)
+
+      const payloadByToken = verifyAccessToken(req.headers.authorization)
       if (!payloadByToken) {
-        return res.status(403).json({  })
+        return res.status(403).json({ message: 'Authorization required' })
       }
-      const candidate = await User.findOneAndUpdate({ username }, {
-        username,
-        citizenship
+
+      const newUsername = username ?? payloadByToken.username;
+      const newCitizenship = citizenship ?? payloadByToken.citizenship;
+      if (!newUsername) {
+        return res.status(400).json({ message: 'Authorization failed, try to logout and login again' })
+      }
+      const candidate = await User.findOneAndUpdate({ username: newUsername }, {
+        username: newUsername,
+        citizenship: newCitizenship
       })
+
       await candidate.save()
       return res.json({message: 'User was successfuly updated'})
     } catch (e) {
-      console.log(e)
       res.status(400).json({ message: 'User was successfuly updated' })
     }
   }
