@@ -16,12 +16,21 @@ class userController {
       if (!newUsername) {
         return res.status(400).json({ message: 'Authorization failed, try to logout and login again' })
       }
-      const candidate = await User.findOneAndUpdate({ username: newUsername }, {
+
+      let potentialSameNameUser = null;
+
+      if (username) {
+        potentialSameNameUser = await User.findOne({ username })
+      }
+      if (potentialSameNameUser) {
+        return res.status(400).json({ message: 'User with same name is already exists' });
+      }
+
+      const currentUser = await User.findOneAndUpdate({ username: payloadByToken.username }, {
         username: newUsername,
         citizenship: newCitizenship
       })
-
-      await candidate.save()
+      await currentUser.save()
       return res.json({message: 'User was successfuly updated'})
     } catch (e) {
       res.status(400).json({ message: 'User was successfuly updated' })
