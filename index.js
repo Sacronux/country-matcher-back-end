@@ -4,6 +4,7 @@ const mongoose = require('mongoose')
 const authRouter = require('./Routers/authRouter')
 const countriesRouter = require('./Routers/countriesRouter')
 const userRouter = require('./Routers/userRouter')
+const languageRouter = require('./Routers/languageRouter')
 
 const PORT = process.env.PORT || 80
 
@@ -14,6 +15,7 @@ app.use(cors())
 app.use('/auth', authRouter)
 app.use('/countries', countriesRouter)
 app.use('/user', userRouter)
+app.use('/languages', languageRouter)
 
 const start = async () => {
   try {
