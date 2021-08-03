@@ -75,7 +75,7 @@ class authController {
       return res.json(response)
     } catch (e) {
       console.log(e)
-      res.status(400).json({message: 'Login error'})
+      return res.status(400).json({message: 'Login error'})
     }
   }
 

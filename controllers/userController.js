@@ -13,6 +13,7 @@ class userController {
 
       const newUsername = username ?? payloadByToken.username;
       const newCitizenship = citizenship ?? payloadByToken.citizenship;
+      
       if (!newUsername) {
         return res.status(400).json({ message: 'Authorization failed, try to logout and login again' })
       }
@@ -30,6 +31,7 @@ class userController {
         username: newUsername,
         citizenship: newCitizenship
       })
+
       await currentUser.save()
       return res.json({message: 'User was successfuly updated'})
     } catch (e) {
