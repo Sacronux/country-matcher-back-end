@@ -4,11 +4,11 @@ const russian = require('../JSONs/Languages/russian.json')
 
 const getJsonByName = name => {
   switch (name) {
-    case 'english':
+    case 'en':
       return english
-    case 'deutch':
+    case 'de':
       return deutch
-    case 'russian':
+    case 'ru':
       return russian   
     default:
       return english  
