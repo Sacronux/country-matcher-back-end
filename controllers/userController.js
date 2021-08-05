@@ -38,6 +38,15 @@ class userController {
       res.status(400).json({ message: 'User was successfuly updated' })
     }
   }
+
+  async getUsers(req, res) {
+    try {
+      const users = await User.find()
+      res.status(200).json(users)
+    } catch (e) {
+      return res.status(400).json({message: 'Failed to get users'})
+    }
+  }
 }
 
 module.exports = new userController()

@@ -29,7 +29,6 @@ class authController {
       await user.save()
       return res.json({message: 'User was successfully registered'})
     } catch (e) {
-      console.log(e)
       res.status(400).json({message: 'Registration error'})
     }
   }
@@ -74,17 +73,7 @@ class authController {
       }
       return res.json(response)
     } catch (e) {
-      console.log(e)
       return res.status(400).json({message: 'Login error'})
-    }
-  }
-
-  async getUsers(req, res) {
-    try {
-      const users = await User.find()
-      res.json(users)
-    } catch (e) {
-      console.log(e)
     }
   }
 }

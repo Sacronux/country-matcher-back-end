@@ -9,15 +9,23 @@ class authController {
         return res.status(400).json({message: 'Updating Country failed', errors})
       }
       const body = req.body
-      let candidate = await Country.findOneAndUpdate({alpha2Code: body.alpha2Code}, body)
-      
-      if (!candidate) {
-        candidate = new Country(body) 
+
+      if (!req.params.id) {
+        res.status(400).json({message: 'Country alpha2Code is required'})
       }
+
+      let candidate = await Country.findOne({alpha2Code: req.params.id})
+      if (!candidate) {
+        candidate = new Country(body)
+        await candidate.save()
+        return res.status(200).json({message: 'Country was successfuly updated'})
+      }
+      const plainObjectCanidate = JSON.parse(JSON.stringify(candidate))
+      await Country.updateOne({alpha2Code: req.params.id}, {...plainObjectCanidate, ...body})
+
       await candidate.save()
-      return res.json({message: 'Country was successfuly updated'})
+      return res.status(200).json({message: 'Country was successfuly updated'})
     } catch (e) {
-      console.log(e)
       res.status(400).json({message: 'Country updating failed'})
     }
   }
@@ -39,16 +47,23 @@ class authController {
       }
       await candidate.save()
     }))
-    return res.json({message: 'Country was successfuly updated'})
+    return res.status(200).json({message: 'Country was successfuly updated'})
   }
 
   async getCountries(req, res) {
     try {
-      const countries = await Country.find()
+      let result;
       
-      res.json(countries)
+      if (req.params.id) {
+        result = await Country.findOne({alpha2Code: req.params.id})
+        return res.status(200).json(result)
+      }
+
+      result = await Country.find()
+      
+      res.status(200).json(result)
     } catch (e) {
-      console.log(e)
+      res.status(400).json({message: 'Failed to get country'})
     }
   }
 }

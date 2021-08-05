@@ -18,7 +18,6 @@ const getJsonByName = name => {
 class languageController {
   getLanguage = async (req, res) => {
     try {
-      console.log(req.query)
       const language = req.query.language;
       const languageJson = getJsonByName(language)
       if (!language || !languageJson) {

@@ -2,8 +2,8 @@ const Router = require('express');
 const router = new Router()
 const controller = require('../controllers/countriesController')
 
-router.post('/country', controller.setCountry)
-router.post('/countries-list', controller.setCountriesList)
-router.get('/countries-list', controller.getCountries)
+router.post('/:id', controller.setCountry)
+router.post('/', controller.setCountriesList)
+router.get('/:id?', controller.getCountries)
 
 module.exports = router

@@ -2,7 +2,6 @@ const Router = require('express');
 const router = new Router()
 const controller = require('../controllers/authController')
 const { check } = require('express-validator')
-const roleMiddleware = require('../middleware/roleMiddleware')
 
 router.post('/registration', [
   check('username', 'Name can\'t be empty').notEmpty(),
@@ -10,6 +9,5 @@ router.post('/registration', [
   
 ], controller.registration)
 router.post('/login', controller.login)
-router.get('/users', roleMiddleware(['admin']), controller.getUsers)
 
 module.exports = router
