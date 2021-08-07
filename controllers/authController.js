@@ -2,10 +2,7 @@
 const User = require('../models/User')
 const Role = require('../models/Role')
 const bcrypt = require('bcryptjs')
-const jwt = require('jsonwebtoken')
 const { validationResult } = require('express-validator')
-const { secret } = require('../config')
-const { asAdmin, asModerator } = require('../utils/authUtils')
 const { verifyAccessToken, renewAuthByToken, generateAccessToken } = require('../utils/userUtils')
 
 const checkUserForAdminRole = (user) => user.roles?.includes('admin')
