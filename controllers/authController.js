@@ -2,10 +2,7 @@
 const User = require('../models/User')
 const Role = require('../models/Role')
 const bcrypt = require('bcryptjs')
-const jwt = require('jsonwebtoken')
 const { validationResult } = require('express-validator')
-const { secret } = require('../config')
-const { asAdmin, asModerator } = require('../utils/authUtils')
 const { verifyAccessToken, renewAuthByToken, generateAccessToken } = require('../utils/userUtils')
 
 const checkUserForAdminRole = (user) => user.roles?.includes('admin')
@@ -21,7 +18,7 @@ class authController {
       const { username, password } = req.body
       const candidate = await User.findOne({username})
       if (candidate) {
-        return res.status(403).json({ message: `User with the name ${username} already exists` })
+        return res.status(403).json({ message: `Registration error: user with the name ${username} already exists` })
       }
       const hashPassword = bcrypt.hashSync(password, 7)
       const userRole = await Role.findOne({ value: 'user' })
@@ -47,21 +44,21 @@ class authController {
 
       const user = await User.findOne({username})
       if (!user) {
-        return res.status(400).json({error: `User ${username} does not exist`})
+        return res.status(400).json({message: `Login error: user ${username} does not exist`})
       }
       const validPassword = bcrypt.compareSync(password, user.password)
       if (!validPassword) {
-        return res.status(400).json({message: 'Invalid password'})
+        return res.status(400).json({message: 'Login error: invalid password'})
       }
       if (asAdmin) {
         if (!checkUserForAdminRole(user)) {
-          return res.status(400).json({message: `User ${username} is not an admin`})
+          return res.status(400).json({message: `Login error: user ${username} is not an admin`})
         }
         userIsAdmin = true
       }
       if (asModerator) {
         if (!checkUserForModeratorRole(user) && !checkUserForAdminRole(user)) {
-          return res.status(400).json({message: `User ${username} is not a moderator`})
+          return res.status(400).json({message: `Login error: user ${username} is not a moderator`})
         }
         userIsModerator = true
       }   

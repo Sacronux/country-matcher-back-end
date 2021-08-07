@@ -1,3 +1,5 @@
 {
-  "SELECT_YOUR_CITIZENSHIP": "Выберите страну гражданства:"
+  "LANGUAGE_PREFIX": "ru",
+  "SELECT_YOUR_CITIZENSHIP": "Выберите страну гражданства:",
+  "FILL_USERNAME_AND_PASSWORD": "Поля имя пользователя и пароль должны быть заполнены"
 }

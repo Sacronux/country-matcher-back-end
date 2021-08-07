@@ -1,3 +1,5 @@
 {
-  "SELECT_YOUR_CITIZENSHIP": "Wähle deine Staatsbürgerschaft:"
+  "LANGUAGE_PREFIX": "de",
+  "SELECT_YOUR_CITIZENSHIP": "Wähle deine Staatsbürgerschaft:",
+  "FILL_USERNAME_AND_PASSWORD": "Die Felder Benutzername und Passwort müssen ausgefüllt werden"
 }
