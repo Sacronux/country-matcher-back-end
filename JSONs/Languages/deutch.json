@@ -1,5 +1,17 @@
 {
   "LANGUAGE_PREFIX": "de",
   "SELECT_YOUR_CITIZENSHIP": "Wähle deine Staatsbürgerschaft:",
-  "FILL_USERNAME_AND_PASSWORD": "Die Felder Benutzername und Passwort müssen ausgefüllt werden"
+  "FILL_USERNAME_AND_PASSWORD": "Die Felder Benutzername und Passwort müssen ausgefüllt werden",
+  "CLICK_TO_SELECT": "Klicke um auszuwählen",
+  "USERNAME": "Nutzername",
+  "PASSWORD": "Passwort",
+  "REGISTRATION": "Anmeldung",
+  "REGISTERED_SUСCESSFULLY": "Erfolgreich registriert",
+  "SIGN_UP": "Anmelden",
+  "SIGN_IN": "Einloggen",
+  "LOGGED_IN_SUCСESSFULLY": "Erfolgreich eingeloggt",
+  "HOME": "Heim",
+  "CONTACTS": "Kontakte",
+  "ABOUT_US": "Über uns",
+  "PROJECT": "Projekt"
 }

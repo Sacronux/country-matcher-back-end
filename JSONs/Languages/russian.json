@@ -1,5 +1,17 @@
 {
   "LANGUAGE_PREFIX": "ru",
   "SELECT_YOUR_CITIZENSHIP": "Выберите страну гражданства:",
-  "FILL_USERNAME_AND_PASSWORD": "Поля имя пользователя и пароль должны быть заполнены"
+  "FILL_USERNAME_AND_PASSWORD": "Поля имя пользователя и пароль должны быть заполнены",
+  "CLICK_TO_SELECT": "Нажмите для выбора",
+  "USERNAME": "Имя пользователя",
+  "PASSWORD": "Пароль",
+  "REGISTRATION": "Регистрация",
+  "REGISTERED_SUСCESSFULLY": "Пользователь успешно зарегистрирован",
+  "SIGN_UP": "Заригистрироваться",
+  "SIGN_IN": "Войти",
+  "LOGGED_IN_SUCСESSFULLY": "Вход успешен",
+  "HOME": "Главная",
+  "CONTACTS": "Контакты",
+  "ABOUT_US": "О нас",
+  "PROJECT": "Проект"
 }

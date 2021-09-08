@@ -1,5 +1,17 @@
 {
   "LANGUAGE_PREFIX": "en",
   "SELECT_YOUR_CITIZENSHIP": "Select your citizenship:",
-  "FILL_USERNAME_AND_PASSWORD": "Please fill username and password fields"
+  "CLICK_TO_SELECT": "Click to select",
+  "FILL_USERNAME_AND_PASSWORD": "Please fill username and password fields",
+  "USERNAME": "Username",
+  "PASSWORD": "Password",
+  "REGISTRATION": "Registration",
+  "REGISTERED_SUСCESSFULLY": "Registered successfully",
+  "SIGN_UP": "Sign up",
+  "SIGN_IN": "Sign in",
+  "LOGGED_IN_SUCСESSFULLY": "Logged in successfully",
+  "HOME": "Home",
+  "CONTACTS": "Contacts",
+  "ABOUT_US": "About us",
+  "PROJECT": "Project"
 }
